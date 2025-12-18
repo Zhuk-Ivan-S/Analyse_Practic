@@ -3,6 +3,7 @@ import  pandas as pd
 import matplotlib.pyplot as plt
 import sqlite3
 
+from pandas.io.common import file_exists
 
 df = pd.read_csv('../Row_files/world food production.csv')
 #print(df.head(10))
@@ -30,7 +31,10 @@ print(df.columns)
 # print(df['Entity'].unique())
 # Отже тут можна відсортувати групи країн або регіони обєднання і так далі методом створення нового дата фрейму де просто
 # дропнути обєнання , континенти і так далі і залишити виключно країни
+regions_to_drop = ['World', 'Africa', 'Asia', 'Europe', 'South America',
+                   'North America', 'European Union', 'Oceania', 'Low income food deficit countries']
 
+df = df[~df['Entity'].isin(regions_to_drop)]
 top_culture = df[['Maize', 'Rice', 'Yams', 'Wheat', 'Tomatoes', 'Tea',
        'Sweet_Potato', 'Sunflower', 'Sugar', 'Soybeans', 'Rye', 'Potatoes',
        'Oranges', 'Peas', 'Palm_Oil', 'Grapes', 'Coffee', 'Cocoa', 'Meat',
@@ -72,3 +76,55 @@ crops = ['Maize', 'Rice', 'Yams', 'Wheat', 'Tomatoes', 'Tea',
        'Bananas', 'Avocados', 'Apples']
 df['Total_production'] = df[crops].sum(axis = 1)
 print(df['Total_production'])
+
+top_countries_by_prod  = df.groupby('Entity')['Total_production'].sum().sort_values(ascending = False)
+print(top_countries_by_prod.head(10))
+
+#top_countries_by_prod.head(10).plot(kind= 'bar')
+#plt.show()
+data_2021 = df[df['Year'] == 2021]
+data_1961 = df[df['Year'] == 1961]
+
+difference = ((data_2021.groupby('Entity')['Total_production'].sum() - data_1961.groupby('Entity')['Total_production'].sum())/data_1961.groupby('Entity')['Total_production'].sum()) *100
+print(f'Percentage grow : {difference.sort_values(ascending = False).head(10)} %')
+difference = difference.dropna()
+print(difference.sort_values(ascending = False).tail(10))
+
+
+conn = sqlite3.connect('../food_database.db')
+df.to_sql('production',conn, if_exists= 'replace', index = False)
+
+query = '''SELECT Entity, Sum(Rice) as Total_Rice from production WHERE Year = 2021 Group by Entity Order by Total_Rice DESC Limit 10'''
+df_rice = pd.read_sql_query(query, conn)
+print(df_rice)
+
+query = '''SELECT Entity from production GROUP BY Entity HAVING Count(Year) = 61;'''
+df_clear = pd.read_sql_query(query,conn)
+print(df_clear)
+
+sugar= '''SELECT 
+    t2021.Entity, 
+    t1990.Sugar as Sugar_1990, 
+    t2021.Sugar as Sugar_2021,
+    (t2021.Sugar - t1990.Sugar) as Absolute_Growth
+FROM 
+    (SELECT Entity, Sugar FROM production WHERE Year = 2021) as t2021
+JOIN 
+    (SELECT Entity, Sugar FROM production WHERE Year = 1990) as t1990 
+ON 
+    t2021.Entity = t1990.Entity
+ORDER BY 
+    Absolute_Growth DESC
+LIMIT 10;'''
+df_sugar_2021 = pd.read_sql_query(sugar, conn)
+print(df_sugar_2021.head(10))
+
+
+
+query = '''SELECT Entity, SUM(Total_production) as Grand_Total
+FROM production
+GROUP BY Entity
+HAVING Grand_Total > 1000000000
+ORDER BY Grand_Total DESC;'''
+df_top_giants = pd.read_sql_query(query, conn)
+print(df_top_giants)
