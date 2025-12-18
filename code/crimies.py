@@ -51,16 +51,15 @@ crime_2019 = df_crime_change.loc[df_crime_change['Year'] == 2019].iloc[0]
 
 #Types of crimes from Dataset
 crime_types = ['Robbery', 'Street_robbery', 'Injury', 'Agg_assault', 'Threat', 'Theft', 'Car', 'From_car', 'Bike', 'Burglary', 'Fire', 'Arson', 'Damage', 'Graffiti', 'Drugs', 'Local']
-
-change_percent = (crime_2019[crime_types] - crime_2012[crime_types]) / crime_2012[crime_types] * 100
+change_percent = ((crime_2019[crime_types] - crime_2012[crime_types]) / crime_2012[crime_types]) * 100
 df_change_results = change_percent.sort_values(ascending=False).round(2)
 print(df_change_results.head(5))
 print(df_change_results.tail(5))
 
-#Graffiti    196.15  Burglary         -19.12
-#Bike        146.67  Street_robbery   -23.91
-#Arson        50.00  Injury           -37.71
-#Drugs        35.09  From_car         -39.63
-#Damage       27.11  Agg_assault      -52.58
-
+#Graffiti    196.15 %  Burglary         -19.12 %
+#Bike        146.67 %  Street_robbery   -23.91 %
+#Arson        50.00  % Injury           -37.71 %
+#Drugs        35.09  % From_car         -39.63 %
+#Damage       27.11  % Agg_assault      -52.58 %
+df_change_results.to_csv('crime_perc.csv')
 # firs impression all insights i make in post LinkedIn and visual in Tableau
