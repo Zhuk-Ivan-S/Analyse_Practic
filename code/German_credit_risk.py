@@ -65,7 +65,7 @@ def att_rate(row):
     if row['Risk_Score'] >= 50:
         att = 'Critical'
     elif 10 <= row['Risk_Score'] <= 49:
-        att = 'Need attetion'
+        att = 'Need attention'
     else: att = 'Normal'
     return att
 
