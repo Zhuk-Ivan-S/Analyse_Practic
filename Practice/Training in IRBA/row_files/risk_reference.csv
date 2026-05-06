@@ -1,0 +1,15 @@
+job,base_pd
+Manager,0.05
+Driver,0.12
+IT Specialist,0.02
+Engineer,0.03
+Student,0.25
+Pensioner,0.08
+Director,0.01
+Unemployed,0.3
+Sportsman,0.08
+Seller,0.06
+Brewer,0.04
+Teacher,0.02
+Security,0.09
+Police worker,0.04
