@@ -58,8 +58,8 @@ risk_map = {
 df_risk_ref = pd.DataFrame(list(risk_map.items()), columns=['job', 'base_pd'])
 
 # File save
-df_clients.to_csv('../Training in IRBA/row_files/bronze_clients.csv', index=False)
-df_credits.to_csv('../Training in IRBA/row_files/bronze_credits.csv', index=False)
-df_risk_ref.to_csv('../Training in IRBA/row_files/risk_reference.csv', index=False)
+df_clients.to_csv('../row_files/bronze_clients.csv', index=False)
+df_credits.to_csv('../row_files/bronze_credits.csv', index=False)
+df_risk_ref.to_csv('../row_files/risk_reference.csv', index=False)
 
 print("Training files are ready !") #Logging

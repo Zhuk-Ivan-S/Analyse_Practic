@@ -22,4 +22,4 @@ df_clean['city'] = df_raw['city'].str.title().str.strip()
 df_clean['is_legal'] = df_clean['age'] >= 18 # True - legal / False - not
 print(df_clean.head(10))
 
-df_clean.to_csv('../Training in IRBA/source/silver_clients.csv', index = False)
+df_clean.to_csv('../source/silver_clients.csv', index = False)

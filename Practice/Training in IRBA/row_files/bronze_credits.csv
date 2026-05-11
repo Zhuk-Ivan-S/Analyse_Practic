@@ -1,1501 +1,1501 @@
 credit_id,client_id,amount,duration,status,collateral_type,collateral_value
-CR_1,191,50000.0,36,Default,None,0.0
-CR_2,935,500.0,12,Active,Real Estate,511.88
-CR_3,4,5000.0,24,Closed,Real Estate,2636.92
-CR_4,366,,60,Closed,None,0.0
-CR_5,858,1000.0,12,Closed,None,0.0
-CR_6,648,5000.0,24,Default,Deposit,4174.2
-CR_7,366,1000.0,6,Default,Real Estate,1111.18
-CR_8,515,10000.0,12,Closed,Deposit,8367.26
-CR_9,671,50000.0,12,Active,Deposit,35736.91
-CR_10,989,25000.0,6,Closed,Car,23021.89
-CR_11,556,5000.0,6,Closed,None,0.0
-CR_12,387,10000.0,60,Default,Deposit,6425.27
-CR_13,294,,24,Default,Deposit,0.0
-CR_14,932,,12,Default,Real Estate,0.0
-CR_15,312,25000.0,24,Closed,Deposit,17587.41
-CR_16,507,500.0,24,Default,Deposit,448.36
-CR_17,569,,60,Active,Real Estate,0.0
-CR_18,600,50000.0,60,Default,Deposit,38278.02
-CR_19,933,10000.0,6,Default,Deposit,10069.15
-CR_20,311,10000.0,12,Active,None,0.0
-CR_21,732,25000.0,60,Closed,Deposit,13391.03
-CR_22,137,500.0,60,Closed,None,0.0
-CR_23,961,500.0,24,Closed,None,0.0
-CR_24,92,25000.0,6,Default,Deposit,29961.26
-CR_25,760,25000.0,24,Closed,Real Estate,31717.8
-CR_26,756,10000.0,6,Default,Car,11832.07
-CR_27,506,1000.0,6,Default,Deposit,889.72
-CR_28,707,10000.0,6,Closed,Real Estate,7632.27
-CR_29,756,25000.0,60,Active,Car,23996.46
-CR_30,778,25000.0,60,Default,Deposit,31120.22
-CR_31,738,10000.0,60,Active,Real Estate,10325.3
-CR_32,109,50000.0,36,Active,Real Estate,25565.39
-CR_33,434,5000.0,24,Active,Real Estate,6886.65
-CR_34,846,500.0,12,Closed,Real Estate,594.0
-CR_35,145,50000.0,6,Default,Car,43636.17
-CR_36,861,5000.0,36,Default,Deposit,2574.75
-CR_37,119,1000.0,36,Closed,Real Estate,533.76
-CR_38,762,1000.0,12,Active,Car,925.04
-CR_39,689,50000.0,36,Default,Deposit,42930.09
-CR_40,502,,24,Closed,None,0.0
-CR_41,975,,24,Default,None,0.0
-CR_42,807,500.0,36,Closed,Deposit,395.3
-CR_43,111,,36,Closed,Real Estate,0.0
-CR_44,156,500.0,12,Active,None,0.0
-CR_45,644,1000.0,6,Default,Deposit,649.46
-CR_46,508,,36,Default,Real Estate,0.0
-CR_47,763,5000.0,12,Default,Deposit,6550.26
-CR_48,809,,60,Default,Deposit,0.0
-CR_49,91,10000.0,60,Default,Deposit,5631.36
-CR_50,913,5000.0,36,Closed,Real Estate,6252.91
-CR_51,942,,12,Active,None,0.0
-CR_52,344,1000.0,6,Closed,Car,1491.86
-CR_53,799,500.0,6,Active,Car,512.41
-CR_54,510,10000.0,12,Default,None,0.0
-CR_55,762,10000.0,6,Active,None,0.0
-CR_56,909,50000.0,60,Default,Deposit,46297.71
-CR_57,245,,24,Default,None,0.0
-CR_58,40,50000.0,36,Closed,Deposit,57393.16
-CR_59,394,,12,Default,Car,0.0
-CR_60,432,5000.0,6,Closed,Deposit,4840.37
-CR_61,679,500.0,12,Active,Real Estate,474.24
-CR_62,867,1000.0,12,Closed,None,0.0
-CR_63,931,5000.0,36,Default,None,0.0
-CR_64,194,50000.0,12,Closed,Deposit,66084.62
-CR_65,127,,36,Active,None,0.0
-CR_66,259,,60,Active,None,0.0
-CR_67,316,25000.0,36,Active,None,0.0
-CR_68,860,1000.0,60,Closed,None,0.0
-CR_69,185,25000.0,24,Closed,None,0.0
-CR_70,61,10000.0,60,Active,Deposit,6565.71
-CR_71,63,5000.0,6,Closed,Real Estate,2921.69
-CR_72,200,25000.0,6,Active,Real Estate,33386.29
-CR_73,502,50000.0,36,Closed,Car,25521.37
-CR_74,134,5000.0,24,Active,Deposit,5496.52
-CR_75,312,50000.0,24,Closed,Car,51369.77
-CR_76,643,1000.0,60,Active,Real Estate,1270.59
-CR_77,409,500.0,12,Active,Deposit,699.58
-CR_78,12,,36,Closed,Deposit,0.0
-CR_79,21,500.0,6,Closed,Deposit,515.02
-CR_80,494,10000.0,6,Closed,Real Estate,7561.81
-CR_81,496,5000.0,24,Active,Real Estate,6117.11
-CR_82,927,1000.0,6,Default,Deposit,1150.74
-CR_83,437,10000.0,36,Active,Car,9300.97
-CR_84,284,10000.0,24,Closed,Deposit,6484.95
-CR_85,918,,60,Default,Car,0.0
-CR_86,589,10000.0,6,Closed,None,0.0
-CR_87,529,25000.0,60,Closed,None,0.0
-CR_88,925,5000.0,24,Active,Real Estate,6997.29
-CR_89,452,50000.0,24,Closed,Real Estate,50978.17
-CR_90,144,500.0,36,Closed,None,0.0
-CR_91,475,,60,Closed,Deposit,0.0
-CR_92,533,25000.0,60,Active,Deposit,36745.7
-CR_93,774,500.0,12,Closed,None,0.0
-CR_94,779,50000.0,60,Closed,Deposit,47392.06
-CR_95,476,1000.0,36,Closed,Car,916.22
-CR_96,121,10000.0,60,Active,Car,11232.7
-CR_97,465,500.0,60,Closed,Car,649.03
-CR_98,521,25000.0,36,Active,Deposit,22528.54
-CR_99,531,50000.0,6,Active,None,0.0
-CR_100,577,,24,Active,None,0.0
-CR_101,531,1000.0,6,Default,Deposit,868.91
-CR_102,634,10000.0,24,Default,Car,9648.01
-CR_103,176,500.0,12,Closed,Deposit,324.72
-CR_104,943,50000.0,12,Active,None,0.0
-CR_105,429,25000.0,6,Default,Real Estate,32123.87
-CR_106,793,5000.0,36,Closed,Car,6253.4
-CR_107,100,10000.0,60,Default,Car,11459.23
-CR_108,27,25000.0,36,Default,None,0.0
-CR_109,24,50000.0,24,Closed,Deposit,59301.87
-CR_110,285,25000.0,60,Default,Deposit,34499.09
-CR_111,18,500.0,24,Default,Car,307.71
-CR_112,71,,36,Closed,None,0.0
-CR_113,822,1000.0,24,Default,Real Estate,645.58
-CR_114,693,500.0,24,Active,Deposit,674.71
-CR_115,549,500.0,12,Default,Deposit,552.09
-CR_116,422,500.0,60,Closed,Car,744.72
-CR_117,224,25000.0,36,Active,Real Estate,29965.91
-CR_118,444,10000.0,60,Closed,None,0.0
-CR_119,649,500.0,24,Default,Car,653.21
-CR_120,490,1000.0,36,Closed,Deposit,605.62
-CR_121,904,50000.0,12,Closed,Real Estate,55049.97
-CR_122,954,10000.0,6,Default,Deposit,8070.14
-CR_123,814,25000.0,24,Active,Car,17740.64
-CR_124,183,50000.0,6,Closed,Deposit,47342.71
-CR_125,288,50000.0,60,Closed,Real Estate,52577.12
-CR_126,742,500.0,60,Default,Real Estate,528.73
-CR_127,490,1000.0,24,Default,None,0.0
-CR_128,913,10000.0,60,Closed,Car,14492.93
-CR_129,927,25000.0,24,Default,Car,27922.91
-CR_130,467,5000.0,12,Default,None,0.0
-CR_131,690,500.0,24,Active,Car,490.02
-CR_132,589,5000.0,24,Closed,Real Estate,3154.54
-CR_133,179,10000.0,6,Closed,Real Estate,11576.56
-CR_134,796,50000.0,12,Closed,Car,51226.02
-CR_135,279,50000.0,36,Default,Real Estate,39637.58
-CR_136,614,,24,Closed,Deposit,0.0
-CR_137,951,500.0,36,Active,Deposit,729.07
-CR_138,520,1000.0,60,Active,None,0.0
-CR_139,145,1000.0,36,Active,Deposit,744.19
-CR_140,574,50000.0,6,Active,None,0.0
-CR_141,637,5000.0,24,Closed,Car,3392.66
-CR_142,307,500.0,12,Active,Car,474.67
-CR_143,967,5000.0,12,Closed,Real Estate,6701.76
-CR_144,77,5000.0,6,Closed,Car,4860.67
-CR_145,570,5000.0,24,Active,Car,5702.61
-CR_146,850,10000.0,6,Active,Deposit,9533.59
-CR_147,803,5000.0,12,Closed,None,0.0
-CR_148,57,1000.0,36,Default,Real Estate,1377.09
-CR_149,29,10000.0,36,Active,Real Estate,5464.84
-CR_150,410,25000.0,60,Default,None,0.0
-CR_151,831,50000.0,12,Active,Real Estate,31443.1
-CR_152,29,5000.0,24,Active,Car,5478.88
-CR_153,210,,6,Default,Car,0.0
-CR_154,109,500.0,36,Active,None,0.0
-CR_155,172,,24,Default,Deposit,0.0
-CR_156,359,1000.0,36,Active,Real Estate,657.77
-CR_157,311,50000.0,12,Active,Real Estate,62520.37
-CR_158,27,1000.0,36,Closed,None,0.0
-CR_159,571,500.0,6,Default,Car,504.73
-CR_160,450,10000.0,36,Closed,Real Estate,9195.5
-CR_161,475,5000.0,12,Active,Car,6028.89
-CR_162,792,5000.0,24,Default,None,0.0
-CR_163,156,500.0,12,Closed,None,0.0
-CR_164,34,50000.0,12,Active,Deposit,50593.31
-CR_165,15,10000.0,12,Default,Real Estate,8977.7
-CR_166,169,500.0,60,Active,Real Estate,470.54
-CR_167,690,10000.0,60,Closed,None,0.0
-CR_168,559,500.0,6,Closed,None,0.0
-CR_169,358,5000.0,24,Active,None,0.0
-CR_170,216,50000.0,24,Active,None,0.0
-CR_171,966,,6,Closed,Car,0.0
-CR_172,716,25000.0,36,Active,None,0.0
-CR_173,151,5000.0,6,Active,Deposit,4300.02
-CR_174,518,50000.0,60,Closed,Deposit,68313.84
-CR_175,815,1000.0,12,Default,Real Estate,1438.17
-CR_176,432,5000.0,6,Closed,None,0.0
-CR_177,642,500.0,24,Closed,Deposit,531.75
-CR_178,481,10000.0,12,Default,None,0.0
-CR_179,508,500.0,60,Active,Deposit,254.47
-CR_180,464,10000.0,36,Active,Deposit,13260.35
-CR_181,372,1000.0,12,Closed,None,0.0
-CR_182,832,,60,Closed,Car,0.0
-CR_183,169,500.0,36,Active,Deposit,519.72
-CR_184,722,25000.0,36,Default,None,0.0
-CR_185,441,50000.0,6,Default,Car,74066.97
-CR_186,650,50000.0,60,Closed,None,0.0
-CR_187,856,1000.0,60,Active,Deposit,1091.15
-CR_188,946,500.0,24,Default,Deposit,568.74
-CR_189,364,50000.0,36,Default,Real Estate,54918.54
-CR_190,179,,6,Closed,None,0.0
-CR_191,473,50000.0,24,Active,Car,72386.45
-CR_192,603,50000.0,36,Closed,None,0.0
-CR_193,991,25000.0,60,Default,Real Estate,29456.23
-CR_194,578,5000.0,36,Closed,Deposit,2535.36
-CR_195,632,10000.0,60,Active,Car,9082.48
-CR_196,502,1000.0,6,Active,Real Estate,818.87
-CR_197,221,25000.0,6,Active,Car,20006.97
-CR_198,280,,36,Active,Deposit,0.0
-CR_199,101,10000.0,24,Default,Deposit,11521.7
-CR_200,488,,6,Closed,None,0.0
-CR_201,396,500.0,36,Active,None,0.0
-CR_202,492,,24,Closed,Deposit,0.0
-CR_203,809,25000.0,36,Default,Car,33210.36
-CR_204,835,50000.0,6,Active,None,0.0
-CR_205,672,,36,Active,Deposit,0.0
-CR_206,964,1000.0,36,Default,None,0.0
-CR_207,280,10000.0,60,Default,Deposit,7905.3
-CR_208,653,,60,Closed,Car,0.0
-CR_209,232,5000.0,36,Default,Car,3429.04
-CR_210,151,500.0,24,Closed,None,0.0
-CR_211,400,500.0,6,Default,Car,639.51
-CR_212,577,25000.0,12,Closed,Real Estate,23349.29
-CR_213,974,5000.0,12,Default,Deposit,6868.0
-CR_214,509,500.0,60,Default,None,0.0
-CR_215,314,50000.0,12,Default,Real Estate,58570.46
-CR_216,624,25000.0,36,Default,Deposit,32719.55
-CR_217,242,,60,Active,Car,0.0
-CR_218,261,500.0,12,Default,Deposit,356.67
-CR_219,38,25000.0,12,Closed,Deposit,22776.17
-CR_220,401,10000.0,24,Closed,Car,6660.03
-CR_221,474,10000.0,24,Active,Real Estate,6855.53
-CR_222,981,,12,Default,Real Estate,0.0
-CR_223,90,25000.0,60,Closed,Car,23829.92
-CR_224,12,1000.0,24,Closed,Real Estate,1234.82
-CR_225,296,1000.0,60,Default,Deposit,1153.44
-CR_226,88,50000.0,12,Closed,Car,30114.82
-CR_227,62,50000.0,12,Active,Car,33608.2
-CR_228,103,1000.0,12,Default,Deposit,1495.22
-CR_229,114,,60,Active,None,0.0
-CR_230,811,50000.0,24,Default,None,0.0
-CR_231,783,500.0,12,Default,Deposit,712.29
-CR_232,566,,36,Default,Deposit,0.0
-CR_233,558,10000.0,60,Active,Car,12256.82
-CR_234,203,10000.0,12,Closed,Car,6082.45
-CR_235,207,5000.0,36,Active,Deposit,6284.59
-CR_236,672,25000.0,6,Closed,Real Estate,13943.72
-CR_237,355,50000.0,24,Closed,Real Estate,28766.81
-CR_238,492,10000.0,24,Closed,Real Estate,14174.83
-CR_239,906,25000.0,12,Closed,Real Estate,36505.41
-CR_240,795,,60,Active,Real Estate,0.0
-CR_241,857,10000.0,36,Default,None,0.0
-CR_242,734,,6,Closed,Car,0.0
-CR_243,710,500.0,24,Default,Deposit,531.88
-CR_244,60,25000.0,12,Closed,None,0.0
-CR_245,136,500.0,60,Closed,Deposit,458.15
-CR_246,952,1000.0,6,Active,None,0.0
-CR_247,925,10000.0,6,Default,Car,12461.24
-CR_248,861,500.0,36,Default,None,0.0
-CR_249,18,500.0,60,Active,None,0.0
-CR_250,373,,60,Default,None,0.0
-CR_251,109,5000.0,24,Closed,Car,2789.39
-CR_252,208,,12,Active,Deposit,0.0
-CR_253,989,50000.0,36,Active,None,0.0
-CR_254,549,500.0,36,Default,Car,426.09
-CR_255,670,,60,Default,None,0.0
-CR_256,528,25000.0,12,Closed,Car,25744.61
-CR_257,677,5000.0,60,Default,Deposit,7353.05
-CR_258,624,25000.0,12,Closed,Real Estate,27522.98
-CR_259,312,500.0,60,Active,Deposit,526.49
-CR_260,962,50000.0,60,Active,None,0.0
-CR_261,886,50000.0,60,Closed,Deposit,62249.92
-CR_262,432,50000.0,12,Closed,Car,68195.39
-CR_263,815,,60,Closed,Real Estate,0.0
-CR_264,571,5000.0,6,Default,None,0.0
-CR_265,337,500.0,24,Closed,Car,680.62
-CR_266,366,1000.0,24,Default,Deposit,784.64
-CR_267,39,5000.0,36,Default,Deposit,7199.12
-CR_268,316,500.0,6,Closed,Real Estate,326.95
-CR_269,77,5000.0,60,Active,Deposit,2919.46
-CR_270,558,25000.0,36,Default,Real Estate,33644.82
-CR_271,907,,36,Default,Car,0.0
-CR_272,885,,6,Closed,Real Estate,0.0
-CR_273,502,50000.0,12,Default,None,0.0
-CR_274,485,5000.0,36,Active,Deposit,2927.97
-CR_275,200,500.0,36,Default,None,0.0
-CR_276,139,500.0,24,Active,Car,250.6
-CR_277,500,500.0,12,Default,Deposit,499.78
-CR_278,415,,6,Active,Deposit,0.0
-CR_279,338,25000.0,60,Active,Car,34267.46
-CR_280,25,,12,Closed,Real Estate,0.0
-CR_281,10,500.0,60,Active,Real Estate,541.24
-CR_282,304,5000.0,24,Default,None,0.0
-CR_283,855,50000.0,24,Default,None,0.0
-CR_284,717,1000.0,36,Active,Real Estate,995.35
-CR_285,224,1000.0,36,Active,Car,1378.83
-CR_286,335,,6,Default,Car,0.0
-CR_287,950,,36,Closed,Real Estate,0.0
-CR_288,997,1000.0,60,Default,Real Estate,1329.12
-CR_289,53,,60,Default,Car,0.0
-CR_290,664,500.0,6,Active,Deposit,399.77
-CR_291,331,500.0,36,Active,Car,531.72
-CR_292,139,10000.0,12,Active,Deposit,11778.06
-CR_293,915,,36,Active,None,0.0
-CR_294,32,500.0,12,Active,None,0.0
-CR_295,358,50000.0,60,Closed,Deposit,31114.57
-CR_296,795,10000.0,6,Default,Deposit,14342.97
-CR_297,354,50000.0,60,Default,Car,58170.91
-CR_298,540,25000.0,12,Closed,Deposit,27418.76
-CR_299,394,25000.0,12,Active,Real Estate,23163.87
-CR_300,215,1000.0,24,Closed,Real Estate,953.86
-CR_301,411,500.0,24,Active,Real Estate,465.65
-CR_302,192,,24,Active,Car,0.0
-CR_303,819,5000.0,24,Closed,Deposit,5576.45
-CR_304,353,500.0,24,Default,None,0.0
-CR_305,555,1000.0,36,Closed,Real Estate,1037.35
-CR_306,865,10000.0,12,Active,Real Estate,11362.94
-CR_307,821,10000.0,24,Closed,Real Estate,8684.22
-CR_308,691,50000.0,24,Closed,Real Estate,30902.27
-CR_309,46,5000.0,36,Active,Deposit,4076.98
-CR_310,846,5000.0,24,Closed,Car,4106.94
-CR_311,127,50000.0,12,Closed,Car,48870.61
-CR_312,376,10000.0,36,Active,Real Estate,13528.72
-CR_313,980,,6,Closed,Deposit,0.0
-CR_314,34,50000.0,36,Active,Real Estate,27416.68
-CR_315,519,50000.0,24,Active,None,0.0
-CR_316,325,25000.0,36,Closed,Deposit,19544.46
-CR_317,675,5000.0,36,Default,Real Estate,6822.24
-CR_318,972,1000.0,12,Closed,Real Estate,792.13
-CR_319,21,,6,Closed,None,0.0
-CR_320,43,,36,Active,Car,0.0
-CR_321,824,,24,Closed,Real Estate,0.0
-CR_322,168,500.0,6,Default,Real Estate,602.82
-CR_323,186,5000.0,6,Closed,Deposit,5895.05
-CR_324,992,500.0,60,Active,None,0.0
-CR_325,361,25000.0,36,Closed,Car,21166.64
-CR_326,46,5000.0,6,Default,Deposit,6699.31
-CR_327,759,25000.0,24,Default,Real Estate,23428.36
-CR_328,503,1000.0,12,Default,None,0.0
-CR_329,979,50000.0,6,Default,Real Estate,68835.71
-CR_330,192,5000.0,24,Active,Deposit,4767.76
-CR_331,256,25000.0,36,Active,None,0.0
-CR_332,570,,12,Closed,Real Estate,0.0
-CR_333,30,5000.0,36,Active,Deposit,6187.45
-CR_334,164,1000.0,12,Closed,None,0.0
-CR_335,777,5000.0,60,Active,Real Estate,4960.1
-CR_336,971,,6,Closed,Car,0.0
-CR_337,597,1000.0,6,Active,Car,549.49
-CR_338,363,5000.0,24,Default,None,0.0
-CR_339,108,500.0,60,Default,Car,487.13
-CR_340,947,500.0,24,Closed,Deposit,660.12
-CR_341,345,50000.0,6,Default,Real Estate,38998.36
-CR_342,280,500.0,60,Closed,Deposit,657.86
-CR_343,60,5000.0,24,Default,Car,6396.79
-CR_344,122,500.0,24,Default,Car,363.77
-CR_345,524,,60,Default,None,0.0
-CR_346,749,5000.0,24,Closed,Car,4739.38
-CR_347,883,10000.0,12,Default,Car,5164.62
-CR_348,703,10000.0,12,Closed,Real Estate,8971.35
-CR_349,351,500.0,6,Active,Real Estate,492.28
-CR_350,579,500.0,6,Active,None,0.0
-CR_351,490,50000.0,12,Default,Deposit,58584.81
-CR_352,952,1000.0,12,Active,Deposit,1369.4
-CR_353,47,,6,Closed,Deposit,0.0
-CR_354,965,10000.0,12,Default,Car,10888.0
-CR_355,240,50000.0,24,Default,Real Estate,70899.76
-CR_356,62,,24,Closed,Real Estate,0.0
-CR_357,196,5000.0,24,Closed,Car,6133.27
-CR_358,128,500.0,6,Active,Deposit,670.82
-CR_359,677,5000.0,12,Active,Deposit,4234.73
-CR_360,119,500.0,24,Active,None,0.0
-CR_361,86,5000.0,6,Closed,Real Estate,6985.1
-CR_362,805,50000.0,6,Closed,Car,57427.57
-CR_363,551,50000.0,60,Default,None,0.0
-CR_364,54,10000.0,6,Active,Car,11536.83
-CR_365,869,500.0,36,Active,None,0.0
-CR_366,129,,24,Default,Deposit,0.0
-CR_367,512,1000.0,12,Closed,Deposit,1225.53
-CR_368,226,50000.0,24,Closed,Car,42102.29
-CR_369,441,5000.0,12,Default,Real Estate,3501.86
-CR_370,7,10000.0,12,Default,Car,5636.73
-CR_371,350,1000.0,60,Closed,None,0.0
-CR_372,333,5000.0,36,Default,Car,5954.62
-CR_373,682,50000.0,12,Default,Real Estate,69414.85
-CR_374,47,,36,Closed,Car,0.0
-CR_375,775,,36,Default,Real Estate,0.0
-CR_376,198,500.0,36,Active,None,0.0
-CR_377,55,25000.0,6,Closed,Car,31663.33
-CR_378,924,5000.0,24,Active,Deposit,5932.31
-CR_379,64,,36,Default,None,0.0
-CR_380,933,5000.0,36,Default,Car,4889.71
-CR_381,84,25000.0,24,Default,None,0.0
-CR_382,472,25000.0,24,Closed,None,0.0
-CR_383,243,10000.0,24,Default,None,0.0
-CR_384,845,,24,Default,Real Estate,0.0
-CR_385,713,1000.0,36,Closed,Real Estate,621.64
-CR_386,856,,24,Closed,None,0.0
-CR_387,217,5000.0,24,Active,Car,6775.66
-CR_388,358,1000.0,6,Closed,None,0.0
-CR_389,525,,36,Closed,None,0.0
-CR_390,100,10000.0,60,Active,Real Estate,11187.53
-CR_391,42,50000.0,6,Closed,Car,60416.48
-CR_392,343,10000.0,12,Closed,Deposit,6364.42
-CR_393,173,5000.0,36,Default,Deposit,5068.96
-CR_394,959,5000.0,24,Default,Real Estate,5484.48
-CR_395,774,25000.0,6,Active,Deposit,36371.56
-CR_396,743,50000.0,24,Closed,Car,47239.2
-CR_397,164,10000.0,36,Default,None,0.0
-CR_398,284,25000.0,6,Closed,Car,36135.18
-CR_399,715,1000.0,6,Default,Real Estate,556.34
-CR_400,754,1000.0,60,Active,Deposit,1117.92
-CR_401,748,10000.0,60,Closed,Deposit,13368.73
-CR_402,659,1000.0,36,Closed,Real Estate,1466.81
-CR_403,624,10000.0,6,Closed,None,0.0
-CR_404,724,,6,Active,Real Estate,0.0
-CR_405,133,500.0,60,Active,Car,508.91
-CR_406,546,5000.0,60,Active,Deposit,7331.3
-CR_407,810,25000.0,24,Active,Deposit,18912.04
-CR_408,515,50000.0,12,Active,Car,56469.77
-CR_409,906,500.0,24,Closed,Real Estate,293.42
-CR_410,232,,60,Active,None,0.0
-CR_411,100,50000.0,6,Default,Deposit,61949.31
-CR_412,541,,36,Default,Car,0.0
-CR_413,291,500.0,12,Active,Real Estate,508.87
-CR_414,175,1000.0,12,Default,None,0.0
-CR_415,128,1000.0,60,Closed,Car,586.64
-CR_416,322,50000.0,36,Default,None,0.0
-CR_417,891,50000.0,24,Default,Car,60816.43
-CR_418,215,1000.0,36,Default,Deposit,1014.86
-CR_419,442,25000.0,12,Active,Real Estate,18464.5
-CR_420,391,25000.0,60,Default,None,0.0
-CR_421,980,,36,Default,Car,0.0
-CR_422,682,10000.0,6,Closed,None,0.0
-CR_423,735,500.0,12,Default,Car,506.25
-CR_424,118,10000.0,60,Active,None,0.0
-CR_425,373,,6,Active,Deposit,0.0
-CR_426,259,,24,Active,Car,0.0
-CR_427,120,10000.0,36,Active,None,0.0
-CR_428,661,500.0,24,Default,Car,509.22
-CR_429,880,1000.0,12,Active,Real Estate,1478.58
-CR_430,539,5000.0,60,Closed,Car,4359.38
-CR_431,992,10000.0,12,Default,Car,10845.25
-CR_432,199,50000.0,12,Default,Deposit,55286.41
-CR_433,719,50000.0,6,Default,Real Estate,33812.82
-CR_434,147,500.0,6,Default,Real Estate,724.24
-CR_435,593,,12,Active,Real Estate,0.0
-CR_436,688,10000.0,60,Active,None,0.0
-CR_437,815,1000.0,12,Closed,Deposit,610.06
-CR_438,978,,24,Active,None,0.0
-CR_439,261,5000.0,6,Default,None,0.0
-CR_440,63,5000.0,12,Active,Deposit,3635.28
-CR_441,87,5000.0,6,Default,Real Estate,3618.83
-CR_442,349,10000.0,6,Closed,Car,10690.74
-CR_443,78,25000.0,60,Closed,Real Estate,15086.68
-CR_444,563,1000.0,24,Default,Car,1456.91
-CR_445,466,1000.0,6,Active,Car,1337.91
-CR_446,400,500.0,24,Closed,Car,478.82
-CR_447,428,500.0,6,Active,Real Estate,497.76
-CR_448,155,1000.0,36,Closed,Car,957.33
-CR_449,120,1000.0,36,Default,Deposit,1307.26
-CR_450,148,25000.0,12,Active,Real Estate,16217.57
-CR_451,204,25000.0,60,Closed,None,0.0
-CR_452,962,1000.0,60,Closed,Car,534.59
-CR_453,347,50000.0,12,Closed,Deposit,55039.89
-CR_454,95,50000.0,36,Active,None,0.0
-CR_455,494,500.0,6,Default,None,0.0
-CR_456,931,5000.0,60,Default,None,0.0
-CR_457,102,,12,Closed,Car,0.0
-CR_458,317,50000.0,12,Closed,Car,54841.25
-CR_459,310,1000.0,24,Closed,Real Estate,733.96
-CR_460,590,25000.0,60,Default,Car,35591.93
-CR_461,760,500.0,12,Closed,Deposit,679.79
-CR_462,951,10000.0,24,Default,Real Estate,12173.34
-CR_463,757,5000.0,12,Default,Deposit,3023.17
-CR_464,582,1000.0,12,Active,Deposit,1470.8
-CR_465,621,1000.0,24,Closed,None,0.0
-CR_466,112,50000.0,12,Closed,None,0.0
-CR_467,740,25000.0,12,Active,None,0.0
-CR_468,220,5000.0,12,Default,Deposit,3382.01
-CR_469,889,10000.0,24,Closed,Real Estate,11116.84
-CR_470,996,500.0,60,Default,Car,433.63
-CR_471,286,25000.0,12,Active,Deposit,20497.74
-CR_472,213,10000.0,36,Default,Real Estate,9039.28
-CR_473,188,50000.0,6,Closed,Real Estate,32813.62
-CR_474,84,5000.0,6,Active,Car,2587.25
-CR_475,646,25000.0,6,Closed,Car,33431.23
-CR_476,768,10000.0,6,Active,Real Estate,11469.02
-CR_477,243,1000.0,6,Default,Deposit,1345.17
-CR_478,628,1000.0,36,Closed,Real Estate,565.6
-CR_479,78,1000.0,60,Active,None,0.0
-CR_480,87,50000.0,12,Default,None,0.0
-CR_481,600,1000.0,60,Active,Real Estate,1416.57
-CR_482,892,1000.0,36,Default,Deposit,936.46
-CR_483,484,500.0,12,Closed,Car,495.88
-CR_484,77,,6,Active,Car,0.0
-CR_485,129,,60,Closed,Deposit,0.0
-CR_486,392,,24,Closed,Car,0.0
-CR_487,713,5000.0,24,Active,Car,7167.06
-CR_488,902,500.0,6,Default,Deposit,506.31
-CR_489,929,10000.0,60,Default,None,0.0
-CR_490,167,25000.0,6,Active,None,0.0
-CR_491,558,50000.0,6,Active,Real Estate,40968.58
-CR_492,711,10000.0,12,Default,Deposit,14780.79
-CR_493,585,500.0,60,Default,Deposit,545.97
-CR_494,797,500.0,36,Default,None,0.0
-CR_495,521,5000.0,12,Active,Car,2925.22
-CR_496,124,10000.0,6,Default,None,0.0
-CR_497,715,,12,Closed,Car,0.0
-CR_498,412,50000.0,60,Active,Car,72637.87
-CR_499,783,25000.0,24,Default,Car,37126.59
-CR_500,837,5000.0,24,Default,Real Estate,6106.47
-CR_501,628,10000.0,24,Default,Deposit,6690.91
-CR_502,604,5000.0,36,Default,Real Estate,7298.29
-CR_503,172,,36,Active,Deposit,0.0
-CR_504,173,25000.0,12,Active,Car,26166.68
-CR_505,837,25000.0,24,Default,Deposit,20979.01
-CR_506,257,,12,Default,Car,0.0
-CR_507,632,,60,Default,Real Estate,0.0
-CR_508,564,10000.0,24,Default,Car,12715.02
-CR_509,122,,24,Active,Car,0.0
-CR_510,5,10000.0,12,Default,None,0.0
-CR_511,278,1000.0,36,Default,Real Estate,1015.24
-CR_512,72,,12,Default,Deposit,0.0
-CR_513,148,50000.0,36,Closed,Car,28418.02
-CR_514,382,5000.0,60,Default,Real Estate,6700.26
-CR_515,445,5000.0,12,Default,Deposit,6386.51
-CR_516,383,,12,Closed,Real Estate,0.0
-CR_517,554,50000.0,12,Default,Real Estate,36155.32
-CR_518,968,1000.0,6,Active,None,0.0
-CR_519,880,,24,Active,Deposit,0.0
-CR_520,965,1000.0,24,Active,Car,1408.4
-CR_521,782,50000.0,36,Closed,None,0.0
-CR_522,320,10000.0,12,Default,Deposit,8347.32
-CR_523,258,,6,Closed,Deposit,0.0
-CR_524,147,,60,Active,None,0.0
-CR_525,498,,36,Closed,Car,0.0
-CR_526,629,25000.0,12,Active,None,0.0
-CR_527,520,1000.0,12,Closed,None,0.0
-CR_528,37,25000.0,36,Closed,Deposit,32922.41
-CR_529,907,10000.0,24,Default,Car,6277.34
-CR_530,343,5000.0,36,Active,Real Estate,6912.29
-CR_531,583,500.0,12,Default,None,0.0
-CR_532,328,5000.0,6,Default,Deposit,7191.27
-CR_533,939,5000.0,6,Closed,Deposit,5032.01
-CR_534,547,500.0,12,Closed,Deposit,602.04
-CR_535,348,5000.0,36,Active,Real Estate,5927.15
-CR_536,986,5000.0,24,Active,Real Estate,3355.23
-CR_537,974,,6,Default,Deposit,0.0
-CR_538,520,5000.0,60,Closed,Real Estate,3663.0
-CR_539,464,1000.0,6,Default,Deposit,900.44
-CR_540,170,25000.0,36,Closed,Real Estate,14559.43
-CR_541,406,50000.0,60,Closed,Real Estate,70625.21
-CR_542,531,25000.0,6,Active,Deposit,21873.18
-CR_543,134,,60,Active,Car,0.0
-CR_544,416,,24,Default,Deposit,0.0
-CR_545,583,,6,Closed,None,0.0
-CR_546,230,25000.0,60,Closed,Deposit,33119.71
-CR_547,753,,12,Closed,Real Estate,0.0
-CR_548,700,50000.0,24,Active,None,0.0
-CR_549,767,5000.0,6,Closed,Car,7257.81
-CR_550,970,5000.0,6,Default,None,0.0
-CR_551,406,,60,Default,Car,0.0
-CR_552,304,50000.0,6,Active,Real Estate,56943.4
-CR_553,532,1000.0,6,Default,Real Estate,1385.11
-CR_554,364,500.0,60,Active,None,0.0
-CR_555,461,10000.0,24,Default,None,0.0
-CR_556,465,10000.0,36,Active,Real Estate,5447.19
-CR_557,818,1000.0,24,Active,Deposit,577.29
-CR_558,289,5000.0,24,Default,Real Estate,3798.07
-CR_559,496,25000.0,60,Default,None,0.0
-CR_560,404,500.0,36,Default,Car,643.26
-CR_561,761,500.0,12,Default,None,0.0
-CR_562,227,25000.0,6,Active,Real Estate,33318.7
-CR_563,128,50000.0,60,Active,None,0.0
-CR_564,882,50000.0,60,Default,Deposit,31899.21
-CR_565,73,25000.0,60,Closed,Real Estate,30921.35
-CR_566,411,50000.0,6,Active,Deposit,63947.04
-CR_567,236,25000.0,36,Active,Deposit,20703.94
-CR_568,858,,24,Default,Car,0.0
-CR_569,50,500.0,60,Default,Real Estate,438.53
-CR_570,149,25000.0,12,Closed,Car,16406.5
-CR_571,457,10000.0,12,Active,Car,10619.83
-CR_572,611,500.0,60,Default,None,0.0
-CR_573,80,25000.0,60,Active,None,0.0
-CR_574,99,10000.0,24,Closed,None,0.0
-CR_575,639,10000.0,36,Closed,Car,6382.61
-CR_576,220,1000.0,6,Closed,None,0.0
-CR_577,720,10000.0,36,Active,Deposit,11879.48
-CR_578,821,500.0,36,Active,Real Estate,331.91
-CR_579,438,10000.0,24,Default,Car,11147.21
-CR_580,357,500.0,60,Active,Real Estate,599.82
-CR_581,3,50000.0,36,Default,None,0.0
-CR_582,649,,12,Active,None,0.0
-CR_583,413,1000.0,24,Active,None,0.0
-CR_584,318,50000.0,12,Active,None,0.0
-CR_585,306,25000.0,24,Closed,Car,17656.62
-CR_586,150,5000.0,6,Default,Car,5913.42
-CR_587,380,,6,Closed,None,0.0
-CR_588,535,1000.0,60,Active,Deposit,1092.56
-CR_589,139,25000.0,12,Active,None,0.0
-CR_590,912,25000.0,60,Closed,Car,24565.26
-CR_591,661,,24,Default,Car,0.0
-CR_592,851,,60,Default,None,0.0
-CR_593,888,5000.0,60,Default,Deposit,4460.98
-CR_594,879,5000.0,12,Active,Car,5897.71
-CR_595,294,,6,Default,Car,0.0
-CR_596,596,50000.0,24,Default,None,0.0
-CR_597,113,,60,Closed,None,0.0
-CR_598,419,,6,Closed,None,0.0
-CR_599,203,25000.0,36,Closed,None,0.0
-CR_600,856,,6,Default,Real Estate,0.0
-CR_601,989,1000.0,12,Default,Car,1443.43
-CR_602,326,5000.0,60,Default,Deposit,3553.82
-CR_603,763,500.0,60,Active,None,0.0
-CR_604,510,5000.0,6,Active,Car,4181.69
-CR_605,766,1000.0,24,Default,Real Estate,834.78
-CR_606,780,5000.0,12,Closed,Real Estate,5864.02
-CR_607,634,5000.0,60,Default,Car,4052.28
-CR_608,722,25000.0,12,Default,Real Estate,13754.66
-CR_609,140,10000.0,36,Closed,Real Estate,8911.74
-CR_610,541,1000.0,60,Active,None,0.0
-CR_611,117,50000.0,6,Active,None,0.0
-CR_612,507,1000.0,12,Default,Real Estate,1202.14
-CR_613,957,10000.0,6,Active,Car,10020.54
-CR_614,82,500.0,12,Closed,Real Estate,745.97
-CR_615,756,500.0,12,Default,Real Estate,366.21
-CR_616,149,,6,Default,Real Estate,0.0
-CR_617,751,,24,Default,Deposit,0.0
-CR_618,480,50000.0,24,Active,None,0.0
-CR_619,282,500.0,60,Default,Car,412.04
-CR_620,480,500.0,24,Active,Deposit,258.11
-CR_621,576,1000.0,6,Active,Deposit,1284.98
-CR_622,269,10000.0,12,Closed,Deposit,5079.89
-CR_623,373,10000.0,6,Closed,None,0.0
-CR_624,865,500.0,12,Default,Deposit,317.17
-CR_625,234,5000.0,36,Closed,Car,4214.34
-CR_626,706,500.0,12,Active,Real Estate,583.35
-CR_627,108,1000.0,24,Default,None,0.0
-CR_628,36,10000.0,24,Default,Deposit,9030.06
-CR_629,851,10000.0,60,Active,None,0.0
-CR_630,348,50000.0,36,Default,Real Estate,38810.97
-CR_631,139,5000.0,24,Default,Car,6821.21
-CR_632,465,,12,Closed,Real Estate,0.0
-CR_633,695,1000.0,6,Active,Deposit,1130.01
-CR_634,965,50000.0,24,Closed,Real Estate,53495.84
-CR_635,974,,60,Closed,Car,0.0
-CR_636,967,,6,Default,Deposit,0.0
-CR_637,957,10000.0,12,Closed,Real Estate,12263.49
-CR_638,5,1000.0,6,Closed,None,0.0
-CR_639,416,10000.0,36,Closed,Real Estate,12523.8
-CR_640,82,1000.0,36,Closed,Real Estate,1084.01
-CR_641,196,25000.0,24,Default,Car,24864.88
-CR_642,607,10000.0,24,Closed,Real Estate,11465.18
-CR_643,61,50000.0,60,Closed,Deposit,31683.85
-CR_644,505,,36,Closed,Car,0.0
-CR_645,428,500.0,60,Closed,Car,459.83
-CR_646,112,5000.0,24,Active,Real Estate,6160.06
-CR_647,536,500.0,12,Closed,Deposit,278.99
-CR_648,731,10000.0,36,Default,Deposit,5522.8
-CR_649,366,10000.0,36,Closed,Car,8296.38
-CR_650,840,25000.0,6,Active,Car,32241.07
-CR_651,632,50000.0,12,Default,Car,33723.32
-CR_652,991,1000.0,12,Active,Real Estate,849.25
-CR_653,434,,6,Active,Real Estate,0.0
-CR_654,618,,24,Closed,Real Estate,0.0
-CR_655,126,5000.0,12,Active,Real Estate,5597.47
-CR_656,162,10000.0,60,Active,Deposit,11272.65
-CR_657,175,25000.0,12,Default,Real Estate,25379.6
-CR_658,889,500.0,36,Closed,None,0.0
-CR_659,101,500.0,24,Active,Car,263.89
-CR_660,659,50000.0,6,Active,Deposit,71632.6
-CR_661,313,10000.0,12,Active,Deposit,5659.03
-CR_662,908,500.0,6,Default,Car,443.91
-CR_663,207,25000.0,36,Closed,Car,26919.44
-CR_664,528,500.0,60,Active,Deposit,621.14
-CR_665,564,5000.0,12,Active,Car,6801.44
-CR_666,999,500.0,6,Default,Deposit,354.35
-CR_667,769,1000.0,60,Active,Car,1039.68
-CR_668,436,25000.0,12,Closed,None,0.0
-CR_669,463,1000.0,60,Active,Real Estate,1358.1
-CR_670,499,1000.0,12,Closed,Real Estate,965.28
-CR_671,317,500.0,12,Default,None,0.0
-CR_672,181,,6,Default,Car,0.0
-CR_673,513,500.0,6,Default,Car,569.73
-CR_674,400,,36,Closed,Deposit,0.0
-CR_675,958,5000.0,36,Default,Car,3856.23
-CR_676,717,5000.0,60,Closed,Deposit,4405.58
-CR_677,155,,12,Active,None,0.0
-CR_678,289,25000.0,12,Active,Real Estate,26870.83
-CR_679,101,50000.0,36,Active,Real Estate,73517.72
-CR_680,874,,24,Default,Car,0.0
-CR_681,726,1000.0,24,Closed,Real Estate,673.62
-CR_682,299,50000.0,60,Default,Deposit,38013.09
-CR_683,404,500.0,12,Closed,None,0.0
-CR_684,612,10000.0,24,Closed,None,0.0
-CR_685,392,1000.0,24,Active,None,0.0
-CR_686,260,50000.0,36,Active,Deposit,26497.67
-CR_687,664,500.0,12,Default,Car,366.3
-CR_688,749,5000.0,60,Closed,Car,6668.19
-CR_689,12,5000.0,12,Active,Real Estate,6619.77
-CR_690,715,1000.0,36,Closed,Deposit,1233.49
-CR_691,312,500.0,6,Default,None,0.0
-CR_692,414,500.0,12,Default,Deposit,504.19
-CR_693,278,5000.0,60,Closed,Real Estate,7183.38
-CR_694,532,500.0,6,Closed,Real Estate,647.8
-CR_695,323,25000.0,36,Default,Real Estate,15343.87
-CR_696,601,500.0,60,Default,None,0.0
-CR_697,4,500.0,36,Active,Deposit,629.45
-CR_698,814,,36,Active,Car,0.0
-CR_699,442,25000.0,36,Active,Deposit,23424.59
-CR_700,863,50000.0,12,Default,Car,47618.51
-CR_701,854,1000.0,6,Active,None,0.0
-CR_702,980,1000.0,6,Closed,Deposit,824.02
-CR_703,316,500.0,36,Closed,Real Estate,688.63
-CR_704,84,1000.0,60,Closed,Deposit,722.63
-CR_705,896,10000.0,6,Closed,None,0.0
-CR_706,212,500.0,12,Active,Car,601.18
-CR_707,373,500.0,24,Active,Real Estate,306.54
-CR_708,65,500.0,24,Closed,Car,450.33
-CR_709,808,10000.0,24,Active,Deposit,12721.0
-CR_710,98,25000.0,6,Active,Real Estate,14524.08
-CR_711,313,10000.0,12,Active,Real Estate,13319.34
-CR_712,100,5000.0,12,Default,Deposit,4370.31
-CR_713,25,5000.0,24,Active,None,0.0
-CR_714,743,5000.0,60,Closed,Deposit,4572.03
-CR_715,13,5000.0,6,Closed,Real Estate,5269.49
-CR_716,325,50000.0,60,Closed,None,0.0
-CR_717,718,50000.0,36,Active,Deposit,62569.8
-CR_718,888,25000.0,12,Active,Deposit,13741.91
-CR_719,501,10000.0,12,Default,Real Estate,10233.44
-CR_720,200,50000.0,24,Default,Car,56096.42
-CR_721,920,10000.0,12,Default,Car,11557.5
-CR_722,180,500.0,36,Default,Deposit,621.24
-CR_723,112,,24,Active,Deposit,0.0
-CR_724,474,1000.0,24,Closed,Car,867.07
-CR_725,301,10000.0,60,Active,Real Estate,13546.99
-CR_726,35,,36,Closed,Real Estate,0.0
-CR_727,99,1000.0,36,Default,Real Estate,1188.02
-CR_728,408,500.0,60,Closed,Car,306.95
-CR_729,785,,24,Active,Real Estate,0.0
-CR_730,395,1000.0,12,Closed,Car,825.96
-CR_731,353,10000.0,24,Active,None,0.0
-CR_732,118,50000.0,36,Closed,Car,69126.29
-CR_733,997,500.0,24,Closed,Deposit,636.54
-CR_734,927,1000.0,12,Active,None,0.0
-CR_735,954,,60,Active,Real Estate,0.0
-CR_736,957,1000.0,36,Closed,None,0.0
-CR_737,539,10000.0,12,Closed,None,0.0
-CR_738,155,,60,Closed,Car,0.0
-CR_739,776,5000.0,12,Active,Real Estate,6064.72
-CR_740,681,500.0,6,Closed,Car,608.81
-CR_741,372,,24,Active,Real Estate,0.0
-CR_742,558,50000.0,6,Active,Real Estate,71100.21
-CR_743,950,50000.0,60,Active,Deposit,27293.51
-CR_744,316,25000.0,12,Closed,None,0.0
-CR_745,993,500.0,6,Closed,None,0.0
-CR_746,814,,60,Closed,Real Estate,0.0
-CR_747,192,1000.0,6,Closed,Car,1142.96
-CR_748,486,500.0,12,Default,Real Estate,668.95
-CR_749,973,500.0,6,Active,Deposit,637.46
-CR_750,662,,36,Closed,Deposit,0.0
-CR_751,155,10000.0,24,Active,Deposit,8116.57
-CR_752,277,5000.0,60,Closed,Real Estate,3848.0
-CR_753,229,10000.0,24,Default,Car,7171.07
-CR_754,432,500.0,12,Default,Car,371.05
-CR_755,518,,6,Closed,Deposit,0.0
-CR_756,638,500.0,6,Closed,Deposit,340.21
-CR_757,317,500.0,12,Active,Deposit,619.57
-CR_758,344,500.0,6,Active,Real Estate,545.59
-CR_759,393,25000.0,60,Default,None,0.0
-CR_760,298,,24,Default,Deposit,0.0
-CR_761,579,,6,Active,Car,0.0
-CR_762,156,5000.0,12,Closed,Real Estate,5148.94
-CR_763,751,25000.0,24,Active,None,0.0
-CR_764,291,1000.0,60,Active,Car,1019.27
-CR_765,419,5000.0,60,Active,Car,4163.26
-CR_766,655,500.0,36,Closed,Car,628.4
-CR_767,639,50000.0,6,Active,Real Estate,70245.36
-CR_768,311,50000.0,12,Default,Car,71106.98
-CR_769,907,500.0,12,Active,Real Estate,542.25
-CR_770,916,10000.0,60,Active,None,0.0
-CR_771,181,500.0,24,Active,None,0.0
-CR_772,854,25000.0,36,Default,None,0.0
-CR_773,693,5000.0,12,Closed,Deposit,5007.6
-CR_774,999,5000.0,60,Default,Deposit,4606.38
-CR_775,754,,12,Active,None,0.0
-CR_776,196,5000.0,60,Active,None,0.0
-CR_777,983,,60,Default,None,0.0
-CR_778,287,500.0,60,Active,Car,384.38
-CR_779,415,50000.0,24,Active,Deposit,65624.64
-CR_780,732,25000.0,6,Closed,Real Estate,35576.3
-CR_781,357,5000.0,6,Default,Deposit,5123.92
-CR_782,276,25000.0,6,Closed,Real Estate,18121.6
-CR_783,695,500.0,6,Active,Deposit,566.69
-CR_784,275,25000.0,60,Default,Real Estate,28794.23
-CR_785,329,,36,Closed,Deposit,0.0
-CR_786,92,25000.0,6,Closed,Deposit,36030.94
-CR_787,104,500.0,6,Closed,Real Estate,543.03
-CR_788,704,1000.0,24,Closed,Real Estate,1264.13
-CR_789,578,500.0,60,Active,Car,388.6
-CR_790,315,1000.0,36,Active,Deposit,897.56
-CR_791,688,25000.0,60,Closed,Deposit,21467.98
-CR_792,528,25000.0,36,Active,None,0.0
-CR_793,669,5000.0,12,Default,None,0.0
-CR_794,851,1000.0,36,Default,Car,584.04
-CR_795,724,1000.0,36,Active,Real Estate,1167.24
-CR_796,44,50000.0,6,Closed,Deposit,65479.24
-CR_797,388,50000.0,24,Default,Real Estate,54057.77
-CR_798,834,500.0,36,Active,None,0.0
-CR_799,981,10000.0,12,Active,Real Estate,9792.84
-CR_800,396,10000.0,6,Closed,Deposit,14399.23
-CR_801,940,1000.0,36,Default,None,0.0
-CR_802,974,10000.0,36,Closed,Car,7399.6
-CR_803,207,5000.0,24,Active,Car,3324.69
-CR_804,3,,36,Active,None,0.0
-CR_805,363,,36,Default,Deposit,0.0
-CR_806,744,1000.0,60,Closed,Deposit,1130.8
-CR_807,773,10000.0,12,Closed,Deposit,14552.9
-CR_808,409,50000.0,60,Active,None,0.0
-CR_809,294,,24,Closed,Car,0.0
-CR_810,338,50000.0,12,Active,Real Estate,49411.04
-CR_811,454,50000.0,12,Active,Car,72878.43
-CR_812,510,500.0,12,Active,Deposit,459.68
-CR_813,658,50000.0,24,Active,Deposit,73183.72
-CR_814,522,5000.0,24,Active,Real Estate,4363.76
-CR_815,609,1000.0,36,Active,None,0.0
-CR_816,704,,24,Closed,Car,0.0
-CR_817,926,500.0,60,Default,Car,403.3
-CR_818,851,1000.0,60,Active,Real Estate,696.19
-CR_819,26,,12,Closed,Deposit,0.0
-CR_820,852,,36,Active,Deposit,0.0
-CR_821,833,1000.0,6,Active,None,0.0
-CR_822,926,1000.0,36,Active,Car,1069.52
-CR_823,282,50000.0,36,Closed,None,0.0
-CR_824,894,10000.0,12,Closed,Deposit,5359.27
-CR_825,401,,12,Closed,Car,0.0
-CR_826,543,25000.0,6,Closed,None,0.0
-CR_827,52,10000.0,24,Active,Real Estate,7375.74
-CR_828,341,1000.0,60,Closed,Real Estate,742.1
-CR_829,845,,60,Default,Real Estate,0.0
-CR_830,697,1000.0,60,Closed,None,0.0
-CR_831,388,50000.0,60,Closed,Car,53424.05
-CR_832,149,,36,Active,Car,0.0
-CR_833,571,10000.0,24,Active,None,0.0
-CR_834,709,1000.0,36,Active,None,0.0
-CR_835,853,25000.0,60,Default,Deposit,15294.29
-CR_836,612,,60,Closed,Real Estate,0.0
-CR_837,788,25000.0,36,Default,Deposit,27558.39
-CR_838,997,10000.0,60,Closed,Car,7671.86
-CR_839,339,500.0,24,Default,Real Estate,623.2
-CR_840,286,1000.0,60,Default,Real Estate,873.09
-CR_841,16,10000.0,36,Default,None,0.0
-CR_842,678,10000.0,36,Default,None,0.0
-CR_843,480,10000.0,60,Default,Deposit,5857.2
-CR_844,887,5000.0,6,Default,Deposit,6341.31
-CR_845,737,1000.0,12,Active,Car,868.4
-CR_846,897,10000.0,6,Closed,Car,7880.08
-CR_847,139,500.0,12,Active,Car,350.73
-CR_848,821,500.0,60,Default,Real Estate,605.71
-CR_849,588,10000.0,12,Default,None,0.0
-CR_850,730,500.0,60,Default,Car,705.46
-CR_851,723,,36,Closed,Deposit,0.0
-CR_852,168,500.0,24,Default,Deposit,528.61
-CR_853,591,25000.0,60,Active,None,0.0
-CR_854,184,1000.0,6,Active,Deposit,824.24
-CR_855,348,,60,Default,Deposit,0.0
-CR_856,330,10000.0,36,Default,Deposit,14539.89
-CR_857,388,10000.0,60,Default,Car,12272.06
-CR_858,746,1000.0,12,Closed,Real Estate,1041.95
-CR_859,81,10000.0,36,Closed,Deposit,7403.98
-CR_860,465,500.0,36,Default,None,0.0
-CR_861,971,1000.0,60,Closed,Real Estate,1183.71
-CR_862,453,500.0,12,Default,Deposit,386.61
-CR_863,44,1000.0,6,Active,Deposit,790.46
-CR_864,99,5000.0,60,Default,Real Estate,3305.74
-CR_865,297,1000.0,60,Closed,None,0.0
-CR_866,160,5000.0,12,Active,Real Estate,7105.35
-CR_867,482,,36,Default,None,0.0
-CR_868,281,25000.0,24,Closed,Real Estate,16437.15
-CR_869,253,25000.0,60,Closed,None,0.0
-CR_870,766,,6,Active,Real Estate,0.0
-CR_871,350,,12,Default,None,0.0
-CR_872,988,50000.0,6,Default,Deposit,52977.62
-CR_873,366,50000.0,24,Active,None,0.0
-CR_874,844,,6,Closed,Car,0.0
-CR_875,34,25000.0,60,Active,None,0.0
-CR_876,767,500.0,24,Active,None,0.0
-CR_877,207,5000.0,24,Active,Deposit,3663.82
-CR_878,296,1000.0,12,Closed,None,0.0
-CR_879,761,,24,Closed,Real Estate,0.0
-CR_880,548,25000.0,60,Closed,Deposit,20503.89
-CR_881,103,50000.0,6,Default,Real Estate,68631.43
-CR_882,648,25000.0,60,Closed,Real Estate,20952.78
-CR_883,129,5000.0,36,Default,Deposit,7345.29
-CR_884,753,50000.0,60,Active,None,0.0
-CR_885,655,25000.0,12,Active,Deposit,31331.98
-CR_886,341,,6,Active,Car,0.0
-CR_887,902,50000.0,60,Closed,Deposit,67628.18
-CR_888,464,10000.0,12,Closed,Deposit,12705.54
-CR_889,58,1000.0,12,Closed,Real Estate,1014.0
-CR_890,858,10000.0,36,Default,Real Estate,9939.01
-CR_891,589,5000.0,24,Active,Deposit,6056.76
-CR_892,269,1000.0,36,Default,None,0.0
-CR_893,756,5000.0,60,Closed,Deposit,7033.22
-CR_894,832,1000.0,12,Default,Deposit,1383.89
-CR_895,846,5000.0,6,Closed,Deposit,4941.38
-CR_896,208,,36,Closed,Real Estate,0.0
-CR_897,663,25000.0,12,Closed,Real Estate,12685.72
-CR_898,509,5000.0,6,Default,Deposit,5198.04
-CR_899,130,500.0,6,Default,Deposit,336.08
-CR_900,121,500.0,24,Closed,Deposit,559.55
-CR_901,644,50000.0,6,Active,None,0.0
-CR_902,726,25000.0,24,Closed,Real Estate,14729.03
-CR_903,451,500.0,24,Default,None,0.0
-CR_904,24,500.0,60,Closed,None,0.0
-CR_905,181,5000.0,60,Active,Car,4104.96
-CR_906,371,1000.0,24,Default,Real Estate,1211.81
-CR_907,238,50000.0,60,Default,Real Estate,71365.32
-CR_908,336,25000.0,36,Active,Deposit,34595.05
-CR_909,500,500.0,12,Default,None,0.0
-CR_910,590,500.0,6,Closed,Car,283.4
-CR_911,59,25000.0,60,Closed,Real Estate,19983.33
-CR_912,531,1000.0,24,Active,Real Estate,975.18
-CR_913,116,50000.0,36,Default,Deposit,59665.91
-CR_914,785,10000.0,60,Closed,Real Estate,6519.52
-CR_915,913,50000.0,36,Active,Deposit,50930.8
-CR_916,727,25000.0,12,Closed,Real Estate,34535.98
-CR_917,502,1000.0,36,Active,Car,678.81
-CR_918,564,,60,Closed,Real Estate,0.0
-CR_919,310,5000.0,36,Closed,Real Estate,5412.04
-CR_920,182,50000.0,24,Closed,Deposit,65146.93
-CR_921,65,5000.0,60,Default,None,0.0
-CR_922,234,50000.0,24,Closed,Real Estate,63978.31
-CR_923,662,500.0,12,Default,Deposit,282.19
-CR_924,547,10000.0,24,Closed,None,0.0
-CR_925,6,50000.0,36,Closed,Deposit,43074.25
-CR_926,783,25000.0,60,Closed,None,0.0
-CR_927,456,,6,Default,Deposit,0.0
-CR_928,983,50000.0,6,Closed,Deposit,51852.31
-CR_929,713,50000.0,6,Active,Real Estate,43115.91
-CR_930,97,10000.0,60,Default,Car,11200.94
-CR_931,354,,12,Active,Deposit,0.0
-CR_932,535,500.0,12,Default,None,0.0
-CR_933,814,5000.0,6,Closed,Deposit,5673.74
-CR_934,346,500.0,12,Default,Deposit,679.01
-CR_935,69,25000.0,36,Active,Real Estate,16395.59
-CR_936,651,5000.0,60,Default,Deposit,2995.97
-CR_937,303,500.0,36,Active,Car,695.47
-CR_938,577,1000.0,60,Default,Car,844.38
-CR_939,973,25000.0,24,Active,Deposit,26142.59
-CR_940,613,500.0,36,Closed,Real Estate,636.83
-CR_941,186,50000.0,60,Closed,Deposit,25976.37
-CR_942,915,,36,Active,Real Estate,0.0
-CR_943,580,50000.0,6,Default,None,0.0
-CR_944,951,10000.0,6,Active,Real Estate,11676.67
-CR_945,682,500.0,12,Active,Real Estate,541.41
-CR_946,96,25000.0,6,Default,Real Estate,36725.72
-CR_947,965,1000.0,60,Active,Real Estate,1172.55
-CR_948,862,50000.0,24,Default,Real Estate,41696.71
-CR_949,8,50000.0,6,Active,Real Estate,53470.37
-CR_950,373,1000.0,60,Default,None,0.0
-CR_951,284,25000.0,12,Closed,Car,30458.69
-CR_952,489,10000.0,12,Active,Real Estate,10180.88
-CR_953,696,50000.0,60,Default,Deposit,42589.56
-CR_954,557,25000.0,24,Default,Real Estate,22922.22
-CR_955,73,25000.0,6,Closed,Car,37442.95
-CR_956,753,10000.0,60,Default,Real Estate,14170.46
-CR_957,447,5000.0,6,Active,Deposit,2674.11
-CR_958,345,,36,Default,None,0.0
-CR_959,375,500.0,24,Closed,Car,618.06
-CR_960,88,5000.0,12,Active,Real Estate,3582.73
-CR_961,227,25000.0,24,Closed,Real Estate,20428.84
-CR_962,259,500.0,36,Default,Deposit,653.02
-CR_963,247,50000.0,60,Closed,Real Estate,25439.42
-CR_964,630,10000.0,60,Closed,None,0.0
-CR_965,509,25000.0,6,Closed,Car,20161.22
-CR_966,361,1000.0,24,Default,Deposit,598.54
-CR_967,717,,36,Active,Car,0.0
-CR_968,231,1000.0,36,Closed,Deposit,871.54
-CR_969,941,,60,Default,Deposit,0.0
-CR_970,847,5000.0,6,Active,Car,6738.02
-CR_971,139,,6,Active,Car,0.0
-CR_972,543,1000.0,6,Default,Real Estate,988.21
-CR_973,341,10000.0,12,Closed,None,0.0
-CR_974,849,25000.0,60,Active,Deposit,25382.76
-CR_975,182,50000.0,36,Default,Real Estate,66577.38
-CR_976,154,,12,Closed,Real Estate,0.0
-CR_977,570,5000.0,24,Active,Real Estate,6778.17
-CR_978,989,25000.0,12,Default,Deposit,32383.88
-CR_979,577,10000.0,6,Default,Car,14604.64
-CR_980,797,1000.0,6,Closed,Deposit,1406.73
-CR_981,307,5000.0,12,Closed,Car,4555.41
-CR_982,460,,24,Default,Car,0.0
-CR_983,921,500.0,12,Closed,Car,410.2
-CR_984,435,25000.0,24,Closed,Car,30944.15
-CR_985,770,50000.0,36,Closed,None,0.0
-CR_986,593,,6,Default,Car,0.0
-CR_987,141,,36,Active,None,0.0
-CR_988,915,5000.0,36,Default,Deposit,3549.31
-CR_989,642,1000.0,60,Active,Deposit,1133.89
-CR_990,693,,36,Default,Real Estate,0.0
-CR_991,587,25000.0,36,Default,None,0.0
-CR_992,976,5000.0,12,Default,Real Estate,3441.07
-CR_993,687,500.0,6,Active,Real Estate,460.47
-CR_994,724,50000.0,36,Default,Deposit,57934.78
-CR_995,456,1000.0,6,Closed,Real Estate,686.3
-CR_996,445,25000.0,36,Active,Real Estate,35396.49
-CR_997,857,500.0,36,Active,Real Estate,708.69
-CR_998,435,5000.0,24,Closed,None,0.0
-CR_999,540,500.0,60,Closed,Deposit,343.95
-CR_1000,765,25000.0,36,Active,Car,16824.44
-CR_1001,41,1000.0,24,Default,Car,662.06
-CR_1002,2,1000.0,60,Default,Real Estate,1105.26
-CR_1003,24,50000.0,6,Default,Car,27805.07
-CR_1004,49,25000.0,36,Default,Deposit,29936.98
-CR_1005,993,10000.0,6,Closed,Real Estate,6286.21
-CR_1006,953,,60,Active,Real Estate,0.0
-CR_1007,655,1000.0,12,Active,Real Estate,1034.18
-CR_1008,235,50000.0,24,Closed,Real Estate,32085.97
-CR_1009,96,25000.0,36,Default,Deposit,14536.95
-CR_1010,18,10000.0,24,Default,None,0.0
-CR_1011,135,,60,Active,Car,0.0
-CR_1012,827,50000.0,24,Default,Real Estate,73018.57
-CR_1013,764,25000.0,36,Default,Real Estate,22678.26
-CR_1014,411,50000.0,24,Default,Deposit,63273.46
-CR_1015,446,1000.0,6,Active,Real Estate,892.34
-CR_1016,421,25000.0,60,Active,Deposit,18308.47
-CR_1017,952,500.0,36,Default,Real Estate,623.97
-CR_1018,748,50000.0,12,Closed,Real Estate,70856.29
-CR_1019,767,500.0,24,Closed,Real Estate,425.96
-CR_1020,779,1000.0,24,Active,None,0.0
-CR_1021,38,1000.0,24,Closed,Deposit,882.8
-CR_1022,706,,6,Active,Deposit,0.0
-CR_1023,255,25000.0,12,Active,Car,13163.77
-CR_1024,35,1000.0,60,Default,Car,1250.7
-CR_1025,266,,12,Default,Real Estate,0.0
-CR_1026,478,,60,Closed,Car,0.0
-CR_1027,462,500.0,24,Closed,Real Estate,656.39
-CR_1028,537,10000.0,6,Closed,Real Estate,9520.18
-CR_1029,684,5000.0,12,Default,Car,6904.84
-CR_1030,608,500.0,36,Closed,Real Estate,335.84
-CR_1031,22,25000.0,12,Active,Car,34537.61
-CR_1032,103,10000.0,12,Default,Car,5616.85
-CR_1033,384,500.0,6,Active,None,0.0
-CR_1034,79,50000.0,24,Active,Real Estate,64792.73
-CR_1035,235,500.0,12,Closed,None,0.0
-CR_1036,900,500.0,36,Default,None,0.0
-CR_1037,272,10000.0,12,Active,Real Estate,14764.11
-CR_1038,867,,60,Default,Deposit,0.0
-CR_1039,791,10000.0,24,Default,Real Estate,6824.32
-CR_1040,23,500.0,12,Active,None,0.0
-CR_1041,155,5000.0,24,Default,Real Estate,7404.24
-CR_1042,510,1000.0,60,Default,Car,1236.01
-CR_1043,910,50000.0,24,Default,None,0.0
-CR_1044,878,25000.0,24,Active,None,0.0
-CR_1045,164,500.0,60,Closed,None,0.0
-CR_1046,262,25000.0,60,Closed,None,0.0
-CR_1047,215,50000.0,12,Default,Car,28049.0
-CR_1048,618,5000.0,60,Default,Real Estate,3646.35
-CR_1049,510,10000.0,36,Active,None,0.0
-CR_1050,128,10000.0,12,Active,Car,14836.5
-CR_1051,17,,60,Default,None,0.0
-CR_1052,393,10000.0,12,Default,Real Estate,11704.76
-CR_1053,804,,6,Default,Real Estate,0.0
-CR_1054,699,1000.0,60,Default,Deposit,647.52
-CR_1055,188,25000.0,36,Active,Real Estate,36579.86
-CR_1056,739,,12,Default,None,0.0
-CR_1057,154,25000.0,6,Default,Real Estate,29233.2
-CR_1058,663,1000.0,60,Closed,Real Estate,618.0
-CR_1059,599,10000.0,12,Default,Deposit,13210.46
-CR_1060,945,10000.0,6,Closed,Deposit,8197.84
-CR_1061,980,25000.0,24,Active,Car,22109.08
-CR_1062,861,,12,Active,Deposit,0.0
-CR_1063,733,500.0,36,Active,None,0.0
-CR_1064,665,5000.0,36,Active,None,0.0
-CR_1065,44,1000.0,60,Default,Car,916.32
-CR_1066,8,500.0,24,Default,Car,473.69
-CR_1067,763,1000.0,12,Active,Car,814.38
-CR_1068,798,500.0,6,Closed,Deposit,274.18
-CR_1069,575,50000.0,12,Active,Car,46662.24
-CR_1070,600,10000.0,6,Default,Real Estate,13871.37
-CR_1071,629,,36,Closed,Deposit,0.0
-CR_1072,856,500.0,6,Active,Deposit,398.2
-CR_1073,821,10000.0,12,Closed,Car,10470.84
-CR_1074,100,500.0,24,Default,Real Estate,688.53
-CR_1075,320,25000.0,24,Closed,None,0.0
-CR_1076,532,25000.0,6,Closed,None,0.0
-CR_1077,965,50000.0,60,Active,Deposit,64256.07
-CR_1078,787,1000.0,36,Active,Deposit,538.57
-CR_1079,574,500.0,6,Active,Real Estate,745.2
-CR_1080,950,25000.0,6,Active,Real Estate,18356.03
-CR_1081,404,5000.0,36,Closed,Deposit,5476.77
-CR_1082,430,5000.0,6,Active,Real Estate,2914.49
-CR_1083,108,50000.0,12,Closed,Deposit,66868.98
-CR_1084,316,50000.0,36,Default,Car,45312.39
-CR_1085,460,500.0,12,Active,Car,745.99
-CR_1086,65,5000.0,6,Default,Real Estate,3394.86
-CR_1087,759,50000.0,24,Active,Deposit,55409.11
-CR_1088,779,5000.0,12,Default,Real Estate,7279.53
-CR_1089,985,50000.0,12,Active,Car,44152.62
-CR_1090,813,1000.0,36,Active,None,0.0
-CR_1091,464,10000.0,60,Default,Deposit,10049.43
-CR_1092,12,25000.0,60,Active,None,0.0
-CR_1093,691,,6,Default,None,0.0
-CR_1094,130,10000.0,36,Active,Car,10361.89
-CR_1095,562,5000.0,24,Default,Deposit,5511.26
-CR_1096,590,500.0,24,Active,Car,551.65
-CR_1097,103,10000.0,6,Active,Real Estate,10772.05
-CR_1098,590,10000.0,6,Default,Deposit,7981.76
-CR_1099,842,,12,Active,Deposit,0.0
-CR_1100,610,25000.0,60,Default,Car,36373.56
-CR_1101,630,10000.0,12,Active,Deposit,14633.46
-CR_1102,426,5000.0,6,Closed,Real Estate,5350.28
-CR_1103,242,500.0,36,Default,Car,339.8
-CR_1104,739,1000.0,6,Closed,Real Estate,637.34
-CR_1105,1,,24,Closed,Real Estate,0.0
-CR_1106,583,,60,Default,Car,0.0
-CR_1107,907,5000.0,60,Closed,Deposit,3529.93
-CR_1108,673,,6,Closed,Deposit,0.0
-CR_1109,742,500.0,12,Closed,Car,541.73
-CR_1110,254,5000.0,24,Active,Deposit,4172.16
-CR_1111,588,500.0,24,Closed,Real Estate,339.13
-CR_1112,622,,6,Closed,Car,0.0
-CR_1113,594,25000.0,12,Active,None,0.0
-CR_1114,403,,24,Default,Real Estate,0.0
-CR_1115,80,,12,Closed,None,0.0
-CR_1116,783,1000.0,60,Default,None,0.0
-CR_1117,596,,24,Default,Car,0.0
-CR_1118,299,500.0,36,Closed,Car,352.13
-CR_1119,749,25000.0,60,Closed,None,0.0
-CR_1120,894,50000.0,6,Active,Real Estate,50591.55
-CR_1121,374,500.0,36,Default,Real Estate,645.69
-CR_1122,154,50000.0,24,Default,None,0.0
-CR_1123,310,25000.0,12,Active,Car,32374.3
-CR_1124,425,5000.0,36,Default,Car,6563.92
-CR_1125,869,,36,Active,Real Estate,0.0
-CR_1126,561,500.0,12,Default,None,0.0
-CR_1127,771,,12,Closed,Car,0.0
-CR_1128,538,,36,Closed,Car,0.0
-CR_1129,821,500.0,60,Default,Real Estate,645.52
-CR_1130,41,10000.0,6,Closed,Real Estate,10831.93
-CR_1131,491,,60,Closed,Car,0.0
-CR_1132,856,,24,Default,Deposit,0.0
-CR_1133,91,25000.0,12,Default,Car,17419.79
-CR_1134,903,500.0,24,Closed,Deposit,626.54
-CR_1135,875,500.0,60,Default,Car,517.4
-CR_1136,426,5000.0,6,Default,Real Estate,6267.76
-CR_1137,892,50000.0,6,Closed,Deposit,29535.46
-CR_1138,286,500.0,36,Default,Car,453.93
-CR_1139,390,,6,Closed,Real Estate,0.0
-CR_1140,439,1000.0,12,Active,Car,924.65
-CR_1141,655,500.0,12,Active,Deposit,610.24
-CR_1142,796,25000.0,60,Closed,Deposit,22005.0
-CR_1143,451,500.0,12,Default,None,0.0
-CR_1144,492,,6,Closed,Car,0.0
-CR_1145,126,5000.0,6,Default,Deposit,5614.28
-CR_1146,675,25000.0,12,Active,Car,24663.42
-CR_1147,635,25000.0,12,Active,Car,36528.5
-CR_1148,369,25000.0,24,Closed,Car,20413.42
-CR_1149,421,,36,Active,Car,0.0
-CR_1150,937,50000.0,36,Active,None,0.0
-CR_1151,58,50000.0,24,Default,None,0.0
-CR_1152,866,50000.0,12,Closed,Deposit,64649.39
-CR_1153,721,25000.0,36,Closed,Deposit,23335.19
-CR_1154,439,25000.0,24,Closed,Deposit,30919.22
-CR_1155,616,,12,Closed,Deposit,0.0
-CR_1156,705,,24,Closed,None,0.0
-CR_1157,48,5000.0,24,Closed,None,0.0
-CR_1158,473,10000.0,36,Active,Real Estate,6469.35
-CR_1159,242,50000.0,6,Active,None,0.0
-CR_1160,849,,36,Active,Real Estate,0.0
-CR_1161,993,,24,Default,Deposit,0.0
-CR_1162,656,25000.0,60,Active,Real Estate,34744.89
-CR_1163,466,10000.0,6,Default,Deposit,14857.49
-CR_1164,690,10000.0,6,Closed,Car,11423.82
-CR_1165,2,,24,Default,Real Estate,0.0
-CR_1166,577,5000.0,60,Active,None,0.0
-CR_1167,1,50000.0,12,Default,Car,30258.84
-CR_1168,101,25000.0,12,Active,Real Estate,34031.45
-CR_1169,925,10000.0,24,Active,Real Estate,7250.15
-CR_1170,669,10000.0,24,Active,Real Estate,14205.86
-CR_1171,708,,36,Default,None,0.0
-CR_1172,587,1000.0,6,Default,Deposit,971.02
-CR_1173,913,500.0,6,Default,Real Estate,621.99
-CR_1174,74,500.0,24,Active,Real Estate,474.78
-CR_1175,329,50000.0,24,Default,Car,46619.79
-CR_1176,793,50000.0,24,Active,None,0.0
-CR_1177,245,50000.0,24,Closed,Deposit,36318.29
-CR_1178,329,1000.0,36,Closed,Car,1108.54
-CR_1179,388,5000.0,24,Closed,Deposit,6551.73
-CR_1180,870,5000.0,36,Default,None,0.0
-CR_1181,416,25000.0,6,Default,Car,22234.25
-CR_1182,749,,24,Default,Real Estate,0.0
-CR_1183,570,1000.0,12,Default,Car,760.13
-CR_1184,267,1000.0,12,Closed,Real Estate,1053.46
-CR_1185,242,50000.0,36,Default,Car,57044.87
-CR_1186,503,10000.0,60,Default,Deposit,7309.86
-CR_1187,559,500.0,12,Default,Real Estate,619.34
-CR_1188,3,50000.0,6,Active,Deposit,74810.24
-CR_1189,336,50000.0,60,Active,None,0.0
-CR_1190,367,1000.0,36,Default,Real Estate,1234.1
-CR_1191,50,5000.0,60,Default,Real Estate,4636.15
-CR_1192,88,25000.0,6,Default,Car,35428.21
-CR_1193,44,1000.0,36,Closed,Real Estate,778.01
-CR_1194,853,1000.0,6,Default,Car,756.62
-CR_1195,573,500.0,60,Active,Car,420.62
-CR_1196,172,50000.0,12,Default,Deposit,59073.03
-CR_1197,270,,36,Default,Real Estate,0.0
-CR_1198,375,5000.0,12,Active,None,0.0
-CR_1199,948,500.0,12,Default,Deposit,308.02
-CR_1200,426,,24,Closed,Real Estate,0.0
-CR_1201,390,1000.0,12,Active,Real Estate,916.01
-CR_1202,322,10000.0,6,Closed,Car,11086.7
-CR_1203,373,10000.0,36,Active,Real Estate,10154.6
-CR_1204,477,,60,Default,Real Estate,0.0
-CR_1205,604,25000.0,6,Default,Real Estate,26429.77
-CR_1206,758,25000.0,60,Closed,Deposit,14998.73
-CR_1207,416,1000.0,12,Closed,Car,835.23
-CR_1208,571,10000.0,12,Active,Car,8191.5
-CR_1209,622,50000.0,24,Active,Car,67213.28
-CR_1210,687,50000.0,6,Default,Real Estate,32578.78
-CR_1211,880,10000.0,24,Default,Real Estate,6259.1
-CR_1212,571,500.0,60,Active,Car,497.71
-CR_1213,719,500.0,6,Closed,Real Estate,255.12
-CR_1214,603,,12,Active,Real Estate,0.0
-CR_1215,177,50000.0,6,Closed,Deposit,40935.18
-CR_1216,61,5000.0,36,Default,Car,4903.21
-CR_1217,56,25000.0,24,Closed,Deposit,33285.49
-CR_1218,11,500.0,60,Active,Car,689.08
-CR_1219,855,1000.0,36,Active,Car,1430.56
-CR_1220,543,10000.0,6,Closed,Car,7400.43
-CR_1221,803,1000.0,12,Default,Deposit,821.42
-CR_1222,4,,12,Closed,Real Estate,0.0
-CR_1223,121,1000.0,60,Default,Real Estate,704.15
-CR_1224,863,25000.0,24,Default,Real Estate,19997.83
-CR_1225,335,5000.0,24,Default,None,0.0
-CR_1226,537,50000.0,12,Closed,Real Estate,64256.51
-CR_1227,571,50000.0,24,Active,Car,47224.31
-CR_1228,309,50000.0,60,Default,Car,63088.82
-CR_1229,715,,12,Closed,None,0.0
-CR_1230,637,500.0,36,Default,Car,502.67
-CR_1231,438,1000.0,36,Active,Real Estate,966.39
-CR_1232,935,,24,Active,Car,0.0
-CR_1233,754,,60,Active,None,0.0
-CR_1234,583,5000.0,60,Closed,Car,4705.36
-CR_1235,51,,12,Closed,Real Estate,0.0
-CR_1236,667,1000.0,12,Active,Car,1343.66
-CR_1237,686,25000.0,12,Default,None,0.0
-CR_1238,294,50000.0,6,Default,Deposit,62078.3
-CR_1239,468,25000.0,6,Default,Deposit,34718.89
-CR_1240,20,50000.0,12,Active,Car,49607.42
-CR_1241,140,10000.0,60,Default,None,0.0
-CR_1242,372,50000.0,24,Closed,Deposit,28612.01
-CR_1243,1000,,6,Closed,Car,0.0
-CR_1244,989,10000.0,12,Closed,None,0.0
-CR_1245,19,1000.0,12,Default,Car,924.04
-CR_1246,440,5000.0,24,Active,Car,4308.54
-CR_1247,744,50000.0,24,Closed,Real Estate,72750.21
-CR_1248,78,50000.0,24,Active,None,0.0
-CR_1249,489,5000.0,12,Default,Car,5466.97
-CR_1250,581,50000.0,24,Default,Deposit,54726.4
-CR_1251,740,10000.0,60,Active,None,0.0
-CR_1252,642,10000.0,24,Active,Deposit,5390.61
-CR_1253,182,50000.0,24,Closed,Deposit,42411.57
-CR_1254,313,25000.0,6,Active,Car,17959.09
-CR_1255,699,1000.0,60,Active,Deposit,1054.17
-CR_1256,16,1000.0,60,Default,None,0.0
-CR_1257,706,50000.0,12,Default,Car,48460.01
-CR_1258,498,,60,Closed,Real Estate,0.0
-CR_1259,984,500.0,12,Active,Car,599.39
-CR_1260,856,10000.0,60,Default,Car,7660.84
-CR_1261,58,10000.0,6,Closed,Car,5514.34
-CR_1262,18,25000.0,60,Closed,Real Estate,33806.38
-CR_1263,108,50000.0,60,Active,None,0.0
-CR_1264,438,10000.0,24,Closed,Car,6158.46
-CR_1265,900,5000.0,60,Closed,Deposit,7137.99
-CR_1266,651,25000.0,12,Default,Car,14958.24
-CR_1267,425,5000.0,12,Closed,Deposit,7307.64
-CR_1268,763,,60,Active,None,0.0
-CR_1269,907,500.0,60,Closed,Deposit,540.19
-CR_1270,477,1000.0,36,Active,Car,664.89
-CR_1271,763,10000.0,6,Closed,Real Estate,6610.59
-CR_1272,343,5000.0,12,Default,Car,4105.81
-CR_1273,423,1000.0,24,Active,Deposit,1276.19
-CR_1274,441,50000.0,12,Default,Real Estate,27806.52
-CR_1275,221,10000.0,6,Active,Car,5328.42
-CR_1276,708,25000.0,36,Default,Real Estate,27653.38
-CR_1277,322,5000.0,36,Active,None,0.0
-CR_1278,379,25000.0,36,Active,Deposit,13685.88
-CR_1279,353,10000.0,60,Default,Car,13806.71
-CR_1280,544,50000.0,6,Active,Car,41691.29
-CR_1281,69,10000.0,36,Closed,Deposit,10422.03
-CR_1282,132,50000.0,12,Default,Real Estate,41730.43
-CR_1283,780,25000.0,60,Active,Car,20856.57
-CR_1284,922,10000.0,36,Closed,Real Estate,12295.81
-CR_1285,127,500.0,6,Active,Deposit,335.58
-CR_1286,810,500.0,6,Default,Car,431.25
-CR_1287,571,5000.0,60,Closed,None,0.0
-CR_1288,85,50000.0,60,Active,Real Estate,61275.21
-CR_1289,316,1000.0,36,Default,None,0.0
-CR_1290,402,5000.0,36,Active,Real Estate,7389.63
-CR_1291,250,50000.0,6,Closed,Car,27788.78
-CR_1292,959,25000.0,6,Closed,Deposit,25423.96
-CR_1293,190,,36,Closed,None,0.0
-CR_1294,332,5000.0,6,Closed,None,0.0
-CR_1295,4,50000.0,12,Default,Real Estate,25548.89
-CR_1296,146,50000.0,24,Default,Car,39859.46
-CR_1297,227,50000.0,12,Active,Deposit,71050.56
-CR_1298,153,,12,Default,None,0.0
-CR_1299,161,50000.0,24,Default,None,0.0
-CR_1300,219,,24,Active,Deposit,0.0
-CR_1301,395,1000.0,60,Active,None,0.0
-CR_1302,607,50000.0,6,Default,Car,39536.36
-CR_1303,838,500.0,12,Closed,Car,569.71
-CR_1304,641,500.0,60,Closed,Car,562.25
-CR_1305,687,500.0,6,Active,Deposit,556.11
-CR_1306,122,50000.0,60,Default,Car,69748.66
-CR_1307,702,25000.0,36,Closed,Deposit,24861.92
-CR_1308,940,25000.0,60,Closed,Car,37353.13
-CR_1309,591,25000.0,60,Active,Car,23339.12
-CR_1310,41,25000.0,12,Closed,None,0.0
-CR_1311,715,500.0,24,Active,None,0.0
-CR_1312,314,10000.0,6,Closed,None,0.0
-CR_1313,22,50000.0,6,Default,None,0.0
-CR_1314,42,5000.0,24,Closed,Real Estate,5050.88
-CR_1315,159,10000.0,60,Active,Deposit,13444.5
-CR_1316,585,,36,Default,Deposit,0.0
-CR_1317,379,500.0,24,Closed,Real Estate,538.55
-CR_1318,337,25000.0,6,Default,Real Estate,14051.46
-CR_1319,163,1000.0,36,Active,Car,579.0
-CR_1320,268,10000.0,24,Active,None,0.0
-CR_1321,657,5000.0,6,Closed,Car,5918.21
-CR_1322,941,5000.0,36,Default,Real Estate,3656.1
-CR_1323,334,5000.0,6,Closed,None,0.0
-CR_1324,339,1000.0,12,Default,Real Estate,1327.83
-CR_1325,311,50000.0,12,Default,None,0.0
-CR_1326,565,50000.0,12,Closed,Car,47202.1
-CR_1327,815,25000.0,36,Default,None,0.0
-CR_1328,838,10000.0,12,Closed,Deposit,9783.04
-CR_1329,711,1000.0,6,Default,Car,760.66
-CR_1330,615,500.0,60,Default,Real Estate,489.85
-CR_1331,802,25000.0,36,Active,Deposit,28697.35
-CR_1332,223,1000.0,6,Active,Real Estate,1119.8
-CR_1333,34,1000.0,12,Active,Real Estate,806.13
-CR_1334,397,500.0,36,Closed,Car,542.96
-CR_1335,269,25000.0,6,Default,None,0.0
-CR_1336,541,5000.0,24,Default,None,0.0
-CR_1337,425,,36,Active,Deposit,0.0
-CR_1338,4,1000.0,60,Closed,Car,627.29
-CR_1339,937,5000.0,60,Default,None,0.0
-CR_1340,631,5000.0,36,Closed,None,0.0
-CR_1341,620,5000.0,24,Active,Car,2927.42
-CR_1342,98,10000.0,6,Active,None,0.0
-CR_1343,928,50000.0,6,Default,None,0.0
-CR_1344,676,50000.0,6,Default,Deposit,56052.76
-CR_1345,677,50000.0,24,Closed,Deposit,61934.98
-CR_1346,67,25000.0,6,Active,Deposit,36397.96
-CR_1347,186,25000.0,24,Active,Deposit,28445.09
-CR_1348,690,5000.0,6,Active,Deposit,5920.75
-CR_1349,28,500.0,12,Active,Car,297.78
-CR_1350,300,25000.0,60,Active,None,0.0
-CR_1351,954,1000.0,36,Active,None,0.0
-CR_1352,97,,6,Closed,Car,0.0
-CR_1353,250,1000.0,60,Active,Car,1274.39
-CR_1354,617,500.0,36,Active,Real Estate,654.76
-CR_1355,22,5000.0,24,Active,Car,3917.44
-CR_1356,602,25000.0,6,Closed,Real Estate,13404.72
-CR_1357,248,1000.0,6,Active,Deposit,1364.37
-CR_1358,716,,24,Default,Deposit,0.0
-CR_1359,203,50000.0,24,Closed,Deposit,54016.67
-CR_1360,750,,6,Active,Car,0.0
-CR_1361,973,50000.0,36,Default,Real Estate,46073.83
-CR_1362,813,5000.0,60,Closed,Real Estate,5003.93
-CR_1363,9,5000.0,24,Closed,Real Estate,6430.25
-CR_1364,4,500.0,60,Default,Car,436.12
-CR_1365,715,5000.0,60,Active,None,0.0
-CR_1366,526,500.0,12,Active,Car,563.77
-CR_1367,87,5000.0,12,Active,Real Estate,5211.49
-CR_1368,510,5000.0,36,Active,None,0.0
-CR_1369,65,5000.0,60,Active,None,0.0
-CR_1370,929,1000.0,36,Closed,None,0.0
-CR_1371,323,500.0,60,Active,Deposit,666.94
-CR_1372,493,5000.0,36,Active,Real Estate,3004.57
-CR_1373,707,500.0,36,Default,Car,598.63
-CR_1374,23,,24,Closed,None,0.0
-CR_1375,169,,60,Default,Deposit,0.0
-CR_1376,643,5000.0,12,Active,Deposit,4737.82
-CR_1377,24,1000.0,24,Closed,Car,593.28
-CR_1378,272,1000.0,12,Active,None,0.0
-CR_1379,368,50000.0,60,Active,None,0.0
-CR_1380,798,10000.0,60,Active,Real Estate,12730.74
-CR_1381,885,1000.0,24,Active,None,0.0
-CR_1382,561,10000.0,24,Active,Real Estate,6072.53
-CR_1383,126,50000.0,24,Closed,Deposit,55850.72
-CR_1384,397,50000.0,6,Default,Real Estate,51315.38
-CR_1385,742,,24,Active,Deposit,0.0
-CR_1386,227,25000.0,36,Closed,Car,14985.6
-CR_1387,633,500.0,36,Closed,None,0.0
-CR_1388,790,50000.0,60,Closed,Real Estate,69300.88
-CR_1389,346,1000.0,12,Default,Car,502.65
-CR_1390,888,10000.0,12,Closed,Car,11260.85
-CR_1391,563,1000.0,36,Active,Deposit,1456.51
-CR_1392,715,,12,Default,None,0.0
-CR_1393,184,5000.0,36,Default,Car,6750.69
-CR_1394,705,50000.0,36,Closed,Car,72932.18
-CR_1395,208,50000.0,6,Active,Car,64417.73
-CR_1396,322,25000.0,6,Closed,None,0.0
-CR_1397,324,5000.0,36,Active,Deposit,5044.86
-CR_1398,433,50000.0,6,Active,Deposit,32173.75
-CR_1399,972,,6,Default,Deposit,0.0
-CR_1400,910,5000.0,12,Default,Car,5501.76
-CR_1401,54,5000.0,60,Closed,None,0.0
-CR_1402,469,5000.0,60,Default,None,0.0
-CR_1403,523,500.0,6,Active,None,0.0
-CR_1404,793,50000.0,60,Default,Deposit,66418.72
-CR_1405,948,50000.0,60,Default,None,0.0
-CR_1406,615,25000.0,60,Active,Real Estate,26923.84
-CR_1407,271,25000.0,60,Default,Car,22431.05
-CR_1408,562,,12,Active,Car,0.0
-CR_1409,36,1000.0,36,Default,Car,567.69
-CR_1410,874,1000.0,24,Default,Deposit,1081.27
-CR_1411,728,25000.0,6,Closed,Deposit,24421.03
-CR_1412,816,25000.0,24,Closed,None,0.0
-CR_1413,736,5000.0,12,Active,None,0.0
-CR_1414,649,10000.0,36,Active,Real Estate,7471.69
-CR_1415,211,1000.0,36,Active,Car,588.21
-CR_1416,192,5000.0,12,Closed,Real Estate,4574.46
-CR_1417,70,5000.0,36,Default,Real Estate,3958.29
-CR_1418,4,5000.0,24,Default,None,0.0
-CR_1419,820,50000.0,60,Closed,None,0.0
-CR_1420,889,500.0,6,Default,Deposit,609.22
-CR_1421,301,,60,Default,Real Estate,0.0
-CR_1422,557,,6,Default,None,0.0
-CR_1423,114,,12,Active,Deposit,0.0
-CR_1424,183,5000.0,12,Default,Real Estate,6611.39
-CR_1425,602,50000.0,36,Active,Real Estate,74316.71
-CR_1426,713,25000.0,36,Closed,Deposit,34991.84
-CR_1427,667,5000.0,6,Default,Deposit,7195.18
-CR_1428,597,1000.0,24,Default,Real Estate,1402.56
-CR_1429,127,50000.0,24,Closed,None,0.0
-CR_1430,520,,6,Default,Car,0.0
-CR_1431,403,50000.0,12,Default,Real Estate,54225.93
-CR_1432,87,,24,Closed,Deposit,0.0
-CR_1433,827,500.0,36,Closed,Deposit,683.52
-CR_1434,688,,24,Default,Car,0.0
-CR_1435,565,1000.0,36,Closed,Real Estate,799.4
-CR_1436,209,50000.0,24,Default,None,0.0
-CR_1437,196,10000.0,60,Closed,Car,13618.32
-CR_1438,76,1000.0,36,Default,None,0.0
-CR_1439,541,10000.0,24,Default,Real Estate,6905.35
-CR_1440,418,50000.0,36,Default,Deposit,57347.64
-CR_1441,953,500.0,36,Active,Car,306.11
-CR_1442,616,1000.0,6,Closed,None,0.0
-CR_1443,549,1000.0,36,Active,Deposit,1104.96
-CR_1444,581,25000.0,24,Active,Deposit,26124.62
-CR_1445,993,500.0,24,Closed,Car,639.42
-CR_1446,69,500.0,60,Active,Deposit,319.93
-CR_1447,249,10000.0,6,Active,None,0.0
-CR_1448,103,1000.0,60,Default,Car,792.85
-CR_1449,244,1000.0,36,Default,Car,678.9
-CR_1450,690,5000.0,6,Default,Car,7428.73
-CR_1451,436,50000.0,6,Default,Car,39804.69
-CR_1452,770,50000.0,24,Active,Deposit,44963.87
-CR_1453,88,1000.0,12,Closed,None,0.0
-CR_1454,652,1000.0,60,Closed,Car,1131.95
-CR_1455,614,1000.0,6,Closed,Car,713.07
-CR_1456,347,1000.0,60,Closed,Deposit,867.44
-CR_1457,455,5000.0,24,Closed,Car,7380.63
-CR_1458,586,1000.0,24,Active,None,0.0
-CR_1459,551,1000.0,24,Active,Deposit,740.1
-CR_1460,726,1000.0,60,Default,Deposit,703.21
-CR_1461,574,,12,Closed,Car,0.0
-CR_1462,383,25000.0,24,Closed,Real Estate,15488.24
-CR_1463,461,10000.0,12,Default,None,0.0
-CR_1464,579,50000.0,12,Default,Real Estate,54218.53
-CR_1465,806,50000.0,36,Default,Deposit,45253.46
-CR_1466,281,1000.0,12,Default,None,0.0
-CR_1467,675,50000.0,12,Closed,Real Estate,27398.85
-CR_1468,385,50000.0,36,Closed,Real Estate,67270.32
-CR_1469,478,1000.0,36,Active,Car,593.14
-CR_1470,302,10000.0,12,Closed,Real Estate,9498.27
-CR_1471,774,50000.0,36,Active,Real Estate,27346.93
-CR_1472,404,25000.0,12,Closed,Car,29031.04
-CR_1473,36,,36,Active,Real Estate,0.0
-CR_1474,577,500.0,6,Closed,Car,649.35
-CR_1475,907,25000.0,12,Closed,None,0.0
-CR_1476,510,1000.0,24,Default,Car,862.13
-CR_1477,152,50000.0,60,Default,Deposit,54832.1
-CR_1478,492,10000.0,60,Default,Car,13177.92
-CR_1479,938,1000.0,60,Closed,Car,1061.42
-CR_1480,497,5000.0,24,Default,Real Estate,2945.65
-CR_1481,801,10000.0,6,Active,Real Estate,11825.13
-CR_1482,763,1000.0,6,Closed,Car,995.18
-CR_1483,969,1000.0,36,Closed,Car,1013.84
-CR_1484,303,,60,Active,Real Estate,0.0
-CR_1485,61,500.0,24,Default,Deposit,326.48
-CR_1486,29,25000.0,6,Closed,Real Estate,29170.12
-CR_1487,221,,24,Default,Car,0.0
-CR_1488,402,5000.0,60,Closed,Deposit,6650.72
-CR_1489,481,1000.0,36,Closed,Deposit,1380.51
-CR_1490,149,1000.0,24,Closed,Car,1107.94
-CR_1491,151,25000.0,12,Closed,Real Estate,36891.51
-CR_1492,110,5000.0,36,Active,Deposit,3679.71
-CR_1493,350,1000.0,36,Closed,None,0.0
-CR_1494,343,1000.0,6,Active,None,0.0
-CR_1495,680,10000.0,6,Default,Car,10804.3
-CR_1496,599,10000.0,60,Active,None,0.0
-CR_1497,482,1000.0,60,Closed,None,0.0
-CR_1498,632,10000.0,36,Active,Deposit,9682.78
-CR_1499,995,,12,Closed,Real Estate,0.0
-CR_1500,29,25000.0,12,Active,None,0.0
+CR_1,89,1000.0,60,Default,Real Estate,944.49
+CR_2,638,50000.0,12,Closed,Car,72122.15
+CR_3,293,500.0,12,Active,None,0.0
+CR_4,951,50000.0,12,Default,Real Estate,47439.2
+CR_5,750,50000.0,60,Default,Real Estate,28438.96
+CR_6,399,500.0,60,Active,None,0.0
+CR_7,54,5000.0,60,Active,None,0.0
+CR_8,938,10000.0,24,Closed,Real Estate,11906.62
+CR_9,967,50000.0,36,Default,Deposit,56508.17
+CR_10,760,50000.0,6,Closed,None,0.0
+CR_11,568,500.0,12,Closed,None,0.0
+CR_12,25,,36,Active,Real Estate,0.0
+CR_13,821,10000.0,12,Default,None,0.0
+CR_14,342,10000.0,6,Default,Deposit,9397.33
+CR_15,334,1000.0,36,Default,Deposit,1122.58
+CR_16,935,1000.0,12,Default,Deposit,1106.13
+CR_17,275,500.0,6,Closed,Deposit,504.95
+CR_18,282,10000.0,36,Closed,None,0.0
+CR_19,925,,60,Closed,None,0.0
+CR_20,834,5000.0,6,Active,None,0.0
+CR_21,571,,60,Closed,None,0.0
+CR_22,949,1000.0,24,Default,Deposit,1144.85
+CR_23,882,1000.0,24,Active,None,0.0
+CR_24,60,,12,Default,Deposit,0.0
+CR_25,468,5000.0,6,Closed,Car,5987.03
+CR_26,764,,36,Default,None,0.0
+CR_27,62,25000.0,24,Default,Real Estate,25400.94
+CR_28,328,50000.0,60,Default,Real Estate,42595.14
+CR_29,963,,12,Closed,Car,0.0
+CR_30,22,50000.0,6,Default,Deposit,52447.8
+CR_31,478,25000.0,60,Active,Car,34763.3
+CR_32,713,1000.0,24,Default,Car,1450.36
+CR_33,854,5000.0,60,Default,Car,3046.79
+CR_34,471,1000.0,6,Active,Real Estate,1399.88
+CR_35,18,25000.0,36,Default,Car,20382.07
+CR_36,154,50000.0,12,Active,None,0.0
+CR_37,479,,12,Default,Deposit,0.0
+CR_38,83,25000.0,24,Default,Deposit,25127.78
+CR_39,685,10000.0,60,Closed,Deposit,12443.82
+CR_40,255,1000.0,12,Closed,Real Estate,969.9
+CR_41,136,25000.0,24,Active,None,0.0
+CR_42,676,25000.0,36,Default,Car,19883.9
+CR_43,687,,6,Active,Deposit,0.0
+CR_44,303,5000.0,36,Active,Deposit,2939.67
+CR_45,196,500.0,60,Closed,Car,589.83
+CR_46,98,,6,Closed,None,0.0
+CR_47,515,500.0,60,Default,Deposit,261.86
+CR_48,959,25000.0,12,Closed,Real Estate,27097.69
+CR_49,569,500.0,36,Active,Car,662.2
+CR_50,666,500.0,36,Default,Real Estate,594.66
+CR_51,750,5000.0,36,Closed,None,0.0
+CR_52,121,10000.0,60,Active,Real Estate,13620.89
+CR_53,244,25000.0,12,Active,Real Estate,14018.96
+CR_54,550,10000.0,36,Active,None,0.0
+CR_55,121,,60,Closed,None,0.0
+CR_56,179,25000.0,60,Closed,Car,30315.87
+CR_57,792,5000.0,6,Closed,Car,4414.45
+CR_58,813,25000.0,12,Active,Real Estate,34172.37
+CR_59,150,,36,Active,Deposit,0.0
+CR_60,685,25000.0,24,Closed,Real Estate,30288.81
+CR_61,403,,60,Active,None,0.0
+CR_62,528,500.0,60,Default,Deposit,569.3
+CR_63,34,500.0,6,Active,Car,731.22
+CR_64,443,500.0,60,Default,Real Estate,253.97
+CR_65,855,25000.0,12,Active,None,0.0
+CR_66,895,5000.0,6,Active,Real Estate,3877.6
+CR_67,305,10000.0,12,Closed,Real Estate,13531.42
+CR_68,902,10000.0,24,Active,Real Estate,9910.57
+CR_69,392,,6,Default,Real Estate,0.0
+CR_70,546,,60,Default,Deposit,0.0
+CR_71,68,5000.0,6,Active,Deposit,4227.07
+CR_72,895,,60,Default,Car,0.0
+CR_73,118,10000.0,36,Default,Deposit,7086.12
+CR_74,37,50000.0,24,Closed,Deposit,54597.35
+CR_75,134,25000.0,60,Closed,Deposit,15099.9
+CR_76,404,50000.0,12,Default,None,0.0
+CR_77,166,1000.0,60,Closed,Real Estate,1386.85
+CR_78,599,5000.0,60,Default,Deposit,7113.71
+CR_79,403,1000.0,60,Closed,Car,1069.79
+CR_80,107,5000.0,24,Default,Real Estate,5251.99
+CR_81,240,500.0,36,Closed,Deposit,749.52
+CR_82,920,25000.0,60,Active,Real Estate,26608.11
+CR_83,590,1000.0,24,Active,Car,1086.32
+CR_84,655,5000.0,24,Active,Deposit,4952.7
+CR_85,743,5000.0,12,Default,Deposit,4350.17
+CR_86,404,25000.0,60,Active,None,0.0
+CR_87,431,500.0,12,Default,Car,444.79
+CR_88,839,,6,Closed,Car,0.0
+CR_89,979,500.0,24,Active,Car,374.57
+CR_90,358,1000.0,6,Active,Car,505.84
+CR_91,264,50000.0,24,Default,Deposit,74817.16
+CR_92,18,1000.0,36,Default,None,0.0
+CR_93,800,50000.0,12,Active,Real Estate,67370.25
+CR_94,622,1000.0,6,Active,Car,1447.3
+CR_95,645,,24,Active,None,0.0
+CR_96,470,1000.0,6,Closed,None,0.0
+CR_97,52,50000.0,24,Default,Real Estate,29468.55
+CR_98,689,5000.0,6,Active,Car,6935.5
+CR_99,351,5000.0,6,Default,None,0.0
+CR_100,667,500.0,12,Active,Real Estate,516.19
+CR_101,578,25000.0,36,Default,Car,14817.39
+CR_102,2,50000.0,6,Closed,Deposit,51930.8
+CR_103,995,5000.0,6,Default,None,0.0
+CR_104,684,25000.0,24,Active,Car,14217.99
+CR_105,746,50000.0,6,Active,Deposit,38660.63
+CR_106,57,50000.0,6,Closed,Real Estate,60421.28
+CR_107,303,25000.0,12,Active,Real Estate,22274.5
+CR_108,908,1000.0,36,Active,Car,947.68
+CR_109,384,500.0,12,Closed,None,0.0
+CR_110,677,5000.0,60,Active,Car,7464.68
+CR_111,1000,5000.0,6,Closed,Real Estate,7312.28
+CR_112,907,50000.0,60,Active,Deposit,27198.75
+CR_113,576,,60,Closed,Car,0.0
+CR_114,844,5000.0,60,Default,Deposit,2527.01
+CR_115,430,500.0,60,Active,Deposit,367.91
+CR_116,623,10000.0,24,Active,Car,12645.27
+CR_117,470,500.0,12,Active,Deposit,623.37
+CR_118,814,500.0,60,Default,Car,711.0
+CR_119,509,50000.0,24,Active,Real Estate,73999.17
+CR_120,219,50000.0,12,Active,Car,69165.71
+CR_121,91,1000.0,6,Closed,Car,675.01
+CR_122,643,1000.0,24,Default,Car,600.2
+CR_123,157,10000.0,6,Active,Real Estate,8058.16
+CR_124,562,,24,Default,Car,0.0
+CR_125,318,50000.0,12,Default,None,0.0
+CR_126,533,25000.0,12,Default,Car,21398.9
+CR_127,468,50000.0,60,Default,Real Estate,71111.66
+CR_128,94,25000.0,36,Closed,None,0.0
+CR_129,677,5000.0,6,Closed,None,0.0
+CR_130,897,,6,Closed,Car,0.0
+CR_131,296,50000.0,12,Closed,Deposit,32420.81
+CR_132,810,10000.0,24,Closed,Deposit,13333.94
+CR_133,740,10000.0,36,Closed,Car,8983.3
+CR_134,824,500.0,60,Default,None,0.0
+CR_135,194,500.0,24,Closed,Deposit,382.36
+CR_136,6,1000.0,60,Default,Deposit,595.63
+CR_137,351,10000.0,6,Active,None,0.0
+CR_138,236,25000.0,24,Closed,None,0.0
+CR_139,402,25000.0,36,Active,None,0.0
+CR_140,147,,60,Closed,Car,0.0
+CR_141,813,,36,Closed,None,0.0
+CR_142,990,500.0,60,Default,Car,423.92
+CR_143,643,500.0,12,Closed,Deposit,358.29
+CR_144,881,10000.0,12,Active,Deposit,13097.28
+CR_145,839,10000.0,12,Active,Deposit,11889.96
+CR_146,851,5000.0,24,Closed,Car,3388.14
+CR_147,351,50000.0,12,Closed,Deposit,34554.25
+CR_148,263,500.0,60,Default,Real Estate,410.78
+CR_149,762,5000.0,24,Closed,None,0.0
+CR_150,130,50000.0,6,Default,Car,41543.58
+CR_151,585,5000.0,36,Closed,None,0.0
+CR_152,790,500.0,36,Closed,None,0.0
+CR_153,485,,24,Closed,None,0.0
+CR_154,561,50000.0,24,Active,None,0.0
+CR_155,223,5000.0,36,Default,Car,6634.32
+CR_156,840,10000.0,24,Closed,Car,14224.92
+CR_157,947,10000.0,6,Active,Deposit,6895.89
+CR_158,555,,36,Active,None,0.0
+CR_159,766,5000.0,12,Active,Deposit,7090.24
+CR_160,255,10000.0,36,Active,Deposit,13090.14
+CR_161,710,,36,Default,Car,0.0
+CR_162,258,50000.0,24,Default,Real Estate,48537.78
+CR_163,179,50000.0,36,Active,Deposit,68010.3
+CR_164,817,10000.0,12,Active,Car,10009.47
+CR_165,961,25000.0,12,Default,None,0.0
+CR_166,100,500.0,12,Default,Deposit,734.73
+CR_167,22,500.0,12,Closed,Deposit,295.24
+CR_168,10,10000.0,24,Active,Car,12064.8
+CR_169,937,500.0,6,Default,Car,632.36
+CR_170,125,5000.0,6,Closed,Car,6730.92
+CR_171,784,25000.0,12,Active,Deposit,21327.81
+CR_172,86,25000.0,12,Default,Deposit,16988.77
+CR_173,544,25000.0,36,Closed,Deposit,21291.81
+CR_174,628,500.0,12,Default,Deposit,456.76
+CR_175,906,5000.0,6,Active,Real Estate,5332.67
+CR_176,103,25000.0,12,Active,Deposit,35353.0
+CR_177,807,25000.0,6,Active,Real Estate,16346.69
+CR_178,90,25000.0,12,Closed,None,0.0
+CR_179,998,25000.0,12,Closed,Real Estate,22080.98
+CR_180,562,1000.0,24,Default,Car,1272.71
+CR_181,144,50000.0,60,Active,Car,42327.59
+CR_182,10,50000.0,60,Closed,Deposit,32688.99
+CR_183,838,5000.0,6,Default,Car,5850.7
+CR_184,249,5000.0,36,Active,Car,6405.68
+CR_185,879,25000.0,24,Active,Car,24244.86
+CR_186,988,500.0,6,Active,Car,497.54
+CR_187,790,25000.0,6,Closed,Deposit,12714.11
+CR_188,855,5000.0,60,Closed,Deposit,3672.39
+CR_189,804,1000.0,36,Default,None,0.0
+CR_190,640,5000.0,24,Closed,Real Estate,3527.82
+CR_191,910,10000.0,24,Active,None,0.0
+CR_192,852,10000.0,6,Default,Deposit,9141.04
+CR_193,196,10000.0,12,Active,Deposit,12065.5
+CR_194,563,25000.0,36,Default,Car,30289.52
+CR_195,121,500.0,24,Active,Deposit,393.08
+CR_196,576,1000.0,12,Closed,Real Estate,1379.67
+CR_197,499,5000.0,12,Closed,None,0.0
+CR_198,861,10000.0,24,Default,Real Estate,12177.58
+CR_199,437,500.0,6,Default,Real Estate,354.28
+CR_200,963,10000.0,36,Active,None,0.0
+CR_201,274,5000.0,60,Default,Deposit,7126.08
+CR_202,239,500.0,60,Default,Real Estate,622.81
+CR_203,602,1000.0,24,Active,None,0.0
+CR_204,931,5000.0,36,Closed,None,0.0
+CR_205,886,25000.0,6,Closed,None,0.0
+CR_206,531,25000.0,60,Default,Real Estate,14216.97
+CR_207,229,500.0,36,Default,Deposit,325.85
+CR_208,368,10000.0,60,Closed,None,0.0
+CR_209,341,50000.0,60,Active,Deposit,33834.11
+CR_210,792,25000.0,12,Active,Deposit,13184.67
+CR_211,39,500.0,36,Closed,Deposit,287.21
+CR_212,781,5000.0,36,Active,Real Estate,3667.44
+CR_213,522,,12,Closed,None,0.0
+CR_214,753,25000.0,60,Closed,None,0.0
+CR_215,356,10000.0,12,Active,Car,13210.56
+CR_216,203,5000.0,6,Default,None,0.0
+CR_217,969,,6,Default,Real Estate,0.0
+CR_218,83,5000.0,24,Active,None,0.0
+CR_219,743,5000.0,12,Default,Car,6041.08
+CR_220,822,10000.0,36,Default,Deposit,10106.29
+CR_221,261,5000.0,6,Default,Real Estate,4853.49
+CR_222,223,25000.0,6,Active,Real Estate,35933.61
+CR_223,499,50000.0,6,Active,None,0.0
+CR_224,525,,24,Active,Car,0.0
+CR_225,973,10000.0,12,Active,Car,13338.53
+CR_226,786,500.0,24,Active,Car,252.39
+CR_227,820,500.0,6,Closed,Real Estate,635.25
+CR_228,169,5000.0,6,Active,Car,6000.65
+CR_229,909,25000.0,24,Active,Car,28586.09
+CR_230,998,1000.0,60,Default,Deposit,1039.8
+CR_231,801,500.0,12,Closed,Real Estate,730.71
+CR_232,671,50000.0,60,Default,Car,46732.38
+CR_233,11,500.0,24,Default,None,0.0
+CR_234,611,25000.0,24,Closed,None,0.0
+CR_235,824,1000.0,12,Default,Car,1480.08
+CR_236,279,25000.0,12,Closed,Real Estate,17063.02
+CR_237,928,50000.0,60,Active,Deposit,25459.01
+CR_238,259,500.0,12,Active,Car,633.97
+CR_239,223,25000.0,24,Closed,Deposit,37253.84
+CR_240,320,,12,Default,Deposit,0.0
+CR_241,284,1000.0,24,Closed,Car,1191.14
+CR_242,496,1000.0,12,Default,None,0.0
+CR_243,455,50000.0,6,Active,Car,64683.03
+CR_244,216,1000.0,60,Closed,Real Estate,600.73
+CR_245,334,1000.0,36,Active,Deposit,1436.95
+CR_246,413,50000.0,36,Closed,Car,52790.57
+CR_247,676,50000.0,36,Active,Car,73685.62
+CR_248,182,500.0,24,Active,None,0.0
+CR_249,360,25000.0,24,Default,Real Estate,22442.45
+CR_250,964,5000.0,12,Closed,Car,7245.54
+CR_251,511,50000.0,36,Closed,Deposit,63703.35
+CR_252,348,10000.0,12,Active,None,0.0
+CR_253,109,1000.0,24,Active,Real Estate,1123.6
+CR_254,540,10000.0,6,Closed,Deposit,8292.63
+CR_255,376,500.0,24,Default,None,0.0
+CR_256,876,5000.0,36,Active,Car,3139.54
+CR_257,16,1000.0,36,Closed,Real Estate,731.76
+CR_258,956,25000.0,12,Closed,None,0.0
+CR_259,723,50000.0,12,Closed,Real Estate,49729.97
+CR_260,541,1000.0,24,Active,Real Estate,1474.88
+CR_261,444,50000.0,60,Default,None,0.0
+CR_262,301,,24,Default,Real Estate,0.0
+CR_263,647,50000.0,60,Default,None,0.0
+CR_264,343,5000.0,6,Closed,None,0.0
+CR_265,404,5000.0,36,Closed,None,0.0
+CR_266,861,500.0,6,Closed,Deposit,670.97
+CR_267,138,1000.0,36,Closed,Car,645.14
+CR_268,3,1000.0,60,Closed,None,0.0
+CR_269,440,500.0,6,Closed,Real Estate,490.22
+CR_270,752,500.0,6,Active,Car,627.38
+CR_271,173,1000.0,12,Default,None,0.0
+CR_272,617,25000.0,60,Closed,Real Estate,23259.74
+CR_273,912,5000.0,12,Default,Real Estate,4920.41
+CR_274,864,10000.0,60,Closed,Deposit,5236.35
+CR_275,368,50000.0,6,Active,Car,57904.02
+CR_276,311,1000.0,12,Closed,Real Estate,619.61
+CR_277,545,5000.0,60,Active,Real Estate,2503.31
+CR_278,148,1000.0,6,Active,Real Estate,1128.07
+CR_279,740,1000.0,24,Default,None,0.0
+CR_280,267,50000.0,6,Default,None,0.0
+CR_281,702,10000.0,36,Active,None,0.0
+CR_282,167,1000.0,36,Default,None,0.0
+CR_283,329,10000.0,6,Closed,None,0.0
+CR_284,185,1000.0,6,Active,Real Estate,1263.88
+CR_285,629,,12,Active,Real Estate,0.0
+CR_286,265,50000.0,60,Default,Deposit,53456.52
+CR_287,966,5000.0,36,Active,Real Estate,7037.24
+CR_288,869,25000.0,36,Closed,Car,17017.35
+CR_289,987,1000.0,6,Default,Deposit,926.51
+CR_290,54,,24,Active,None,0.0
+CR_291,295,1000.0,60,Active,Car,889.29
+CR_292,622,500.0,24,Default,None,0.0
+CR_293,167,,12,Active,Deposit,0.0
+CR_294,940,1000.0,6,Closed,Car,1490.36
+CR_295,821,25000.0,6,Default,Deposit,31136.96
+CR_296,544,1000.0,60,Default,Deposit,1093.78
+CR_297,216,10000.0,60,Active,None,0.0
+CR_298,287,50000.0,6,Active,Car,52086.24
+CR_299,458,50000.0,60,Default,None,0.0
+CR_300,829,25000.0,6,Default,Real Estate,27550.86
+CR_301,889,1000.0,36,Active,Real Estate,669.68
+CR_302,899,1000.0,6,Active,None,0.0
+CR_303,926,50000.0,6,Active,Real Estate,33521.06
+CR_304,680,50000.0,24,Active,Real Estate,27894.07
+CR_305,261,50000.0,6,Active,Deposit,71682.04
+CR_306,3,50000.0,24,Active,Real Estate,33388.26
+CR_307,574,5000.0,36,Active,None,0.0
+CR_308,77,500.0,6,Closed,Car,272.77
+CR_309,620,,36,Closed,None,0.0
+CR_310,964,25000.0,36,Closed,Real Estate,29795.2
+CR_311,27,1000.0,24,Active,None,0.0
+CR_312,212,5000.0,24,Active,Car,6509.81
+CR_313,149,50000.0,36,Active,Real Estate,62582.6
+CR_314,38,10000.0,6,Default,Car,9614.88
+CR_315,286,5000.0,60,Default,Real Estate,4383.18
+CR_316,313,5000.0,36,Default,Car,6293.04
+CR_317,437,,6,Closed,None,0.0
+CR_318,262,500.0,36,Default,Car,592.43
+CR_319,696,5000.0,60,Closed,Car,4264.32
+CR_320,257,5000.0,6,Default,None,0.0
+CR_321,512,50000.0,60,Default,Real Estate,69100.04
+CR_322,861,5000.0,36,Default,Deposit,4396.7
+CR_323,762,,60,Default,None,0.0
+CR_324,319,10000.0,6,Closed,Car,7268.95
+CR_325,197,50000.0,12,Active,None,0.0
+CR_326,825,10000.0,12,Closed,None,0.0
+CR_327,665,10000.0,60,Closed,Car,6468.14
+CR_328,396,50000.0,60,Active,Deposit,33486.1
+CR_329,860,1000.0,24,Active,Real Estate,1264.71
+CR_330,146,50000.0,60,Default,Deposit,40632.12
+CR_331,641,,24,Active,Deposit,0.0
+CR_332,645,,12,Active,None,0.0
+CR_333,786,5000.0,24,Closed,None,0.0
+CR_334,927,,60,Default,Real Estate,0.0
+CR_335,150,50000.0,24,Closed,Car,50336.4
+CR_336,255,50000.0,6,Active,Car,51633.06
+CR_337,63,1000.0,36,Active,Real Estate,1161.9
+CR_338,282,50000.0,12,Active,Car,57326.47
+CR_339,862,5000.0,6,Closed,Real Estate,3892.47
+CR_340,163,500.0,60,Active,None,0.0
+CR_341,326,1000.0,36,Closed,Car,1257.8
+CR_342,301,50000.0,36,Active,Car,58417.84
+CR_343,710,500.0,36,Closed,Car,428.72
+CR_344,372,10000.0,36,Active,Deposit,13151.76
+CR_345,151,25000.0,60,Active,Deposit,27389.38
+CR_346,847,50000.0,60,Closed,None,0.0
+CR_347,449,,6,Active,Real Estate,0.0
+CR_348,309,1000.0,6,Active,Real Estate,713.82
+CR_349,212,10000.0,12,Active,Deposit,8890.17
+CR_350,516,10000.0,6,Closed,Real Estate,11070.91
+CR_351,552,50000.0,60,Default,Car,53766.62
+CR_352,454,500.0,60,Active,Real Estate,664.1
+CR_353,459,10000.0,36,Default,Car,10847.8
+CR_354,407,50000.0,12,Default,Deposit,28081.26
+CR_355,942,5000.0,12,Active,Real Estate,3436.51
+CR_356,720,50000.0,12,Closed,Real Estate,71977.27
+CR_357,843,500.0,12,Closed,Car,670.64
+CR_358,895,50000.0,36,Default,Deposit,49664.99
+CR_359,228,1000.0,12,Default,Real Estate,964.54
+CR_360,150,1000.0,60,Active,Car,562.33
+CR_361,882,50000.0,36,Default,Deposit,33512.69
+CR_362,951,10000.0,36,Default,Car,12362.33
+CR_363,955,500.0,12,Active,Real Estate,285.12
+CR_364,347,10000.0,36,Default,Deposit,12955.48
+CR_365,863,5000.0,24,Default,None,0.0
+CR_366,816,25000.0,60,Active,Car,27956.64
+CR_367,551,500.0,60,Closed,Real Estate,293.92
+CR_368,348,500.0,36,Closed,Deposit,349.55
+CR_369,319,25000.0,36,Active,Car,23868.74
+CR_370,628,1000.0,36,Active,Deposit,1328.16
+CR_371,172,25000.0,6,Default,None,0.0
+CR_372,294,10000.0,60,Closed,Car,12518.64
+CR_373,934,500.0,24,Active,Real Estate,444.77
+CR_374,590,25000.0,6,Active,Real Estate,34564.58
+CR_375,120,10000.0,60,Closed,None,0.0
+CR_376,989,1000.0,6,Active,None,0.0
+CR_377,63,10000.0,12,Active,Real Estate,5447.86
+CR_378,38,5000.0,60,Closed,None,0.0
+CR_379,521,50000.0,24,Closed,None,0.0
+CR_380,890,10000.0,12,Closed,Real Estate,14501.04
+CR_381,519,50000.0,60,Default,Car,56374.29
+CR_382,714,50000.0,12,Active,Deposit,67281.63
+CR_383,908,5000.0,60,Active,Car,4229.21
+CR_384,201,10000.0,6,Active,Real Estate,6777.71
+CR_385,921,25000.0,24,Active,None,0.0
+CR_386,672,500.0,12,Default,Car,430.62
+CR_387,689,25000.0,24,Default,Deposit,29283.89
+CR_388,807,25000.0,6,Closed,None,0.0
+CR_389,991,500.0,12,Default,Car,710.51
+CR_390,280,10000.0,60,Closed,None,0.0
+CR_391,580,25000.0,12,Closed,Deposit,33110.55
+CR_392,677,25000.0,12,Active,Car,29923.68
+CR_393,785,1000.0,6,Active,None,0.0
+CR_394,821,50000.0,36,Default,None,0.0
+CR_395,813,1000.0,12,Closed,Real Estate,586.67
+CR_396,581,500.0,60,Closed,Real Estate,340.52
+CR_397,35,5000.0,6,Default,Car,5207.29
+CR_398,942,25000.0,60,Closed,None,0.0
+CR_399,492,500.0,24,Default,Real Estate,415.68
+CR_400,827,10000.0,60,Default,Real Estate,10251.02
+CR_401,174,500.0,6,Default,None,0.0
+CR_402,508,1000.0,60,Closed,None,0.0
+CR_403,83,500.0,36,Active,None,0.0
+CR_404,296,1000.0,36,Default,Car,1390.53
+CR_405,702,1000.0,24,Default,Real Estate,1497.23
+CR_406,431,1000.0,12,Closed,None,0.0
+CR_407,147,,24,Closed,Deposit,0.0
+CR_408,657,50000.0,36,Default,Deposit,36551.38
+CR_409,803,,12,Closed,Car,0.0
+CR_410,644,,60,Default,Car,0.0
+CR_411,850,1000.0,12,Active,Deposit,1480.87
+CR_412,134,25000.0,24,Default,None,0.0
+CR_413,236,10000.0,60,Default,Deposit,11103.87
+CR_414,609,1000.0,60,Active,Car,981.93
+CR_415,968,5000.0,36,Closed,Real Estate,2667.94
+CR_416,666,50000.0,60,Active,Deposit,56154.71
+CR_417,15,500.0,36,Active,None,0.0
+CR_418,52,1000.0,24,Default,Real Estate,582.81
+CR_419,226,1000.0,24,Active,Real Estate,1220.99
+CR_420,631,,12,Active,None,0.0
+CR_421,750,1000.0,36,Closed,Real Estate,963.97
+CR_422,12,5000.0,12,Default,Real Estate,3292.45
+CR_423,521,5000.0,60,Closed,Deposit,4719.61
+CR_424,265,10000.0,36,Closed,Car,5510.05
+CR_425,967,50000.0,36,Closed,None,0.0
+CR_426,187,5000.0,6,Closed,None,0.0
+CR_427,207,,6,Closed,None,0.0
+CR_428,121,10000.0,6,Default,Car,10767.62
+CR_429,265,,24,Closed,Real Estate,0.0
+CR_430,398,1000.0,6,Closed,Deposit,1426.12
+CR_431,598,1000.0,36,Default,Real Estate,626.28
+CR_432,189,500.0,24,Active,Deposit,519.89
+CR_433,848,1000.0,36,Default,Deposit,1364.6
+CR_434,558,1000.0,36,Active,Real Estate,587.95
+CR_435,786,500.0,12,Closed,Deposit,714.45
+CR_436,606,10000.0,6,Default,None,0.0
+CR_437,289,50000.0,36,Default,Car,54144.18
+CR_438,122,,24,Default,Deposit,0.0
+CR_439,991,10000.0,6,Default,Deposit,7621.16
+CR_440,67,50000.0,36,Active,Deposit,66915.38
+CR_441,69,500.0,24,Default,Deposit,577.68
+CR_442,804,1000.0,60,Default,None,0.0
+CR_443,91,50000.0,12,Active,None,0.0
+CR_444,587,1000.0,36,Default,Deposit,1377.87
+CR_445,896,50000.0,36,Active,Deposit,51374.49
+CR_446,860,5000.0,36,Closed,Real Estate,4896.88
+CR_447,456,25000.0,6,Active,None,0.0
+CR_448,873,,12,Default,None,0.0
+CR_449,979,50000.0,12,Closed,Car,69550.33
+CR_450,428,500.0,12,Closed,Deposit,650.67
+CR_451,799,50000.0,24,Active,Real Estate,27825.96
+CR_452,949,25000.0,36,Closed,Real Estate,22843.23
+CR_453,345,25000.0,60,Default,Real Estate,34601.25
+CR_454,746,,60,Closed,Real Estate,0.0
+CR_455,613,500.0,6,Active,None,0.0
+CR_456,249,10000.0,24,Closed,Car,13156.11
+CR_457,352,500.0,24,Closed,Real Estate,364.07
+CR_458,503,10000.0,60,Active,Car,10251.81
+CR_459,156,25000.0,24,Active,Real Estate,36858.75
+CR_460,181,5000.0,60,Active,Real Estate,3762.18
+CR_461,507,50000.0,36,Active,Car,42103.19
+CR_462,777,25000.0,60,Default,Car,34494.58
+CR_463,633,1000.0,6,Closed,Car,617.92
+CR_464,988,500.0,24,Default,Real Estate,291.66
+CR_465,492,25000.0,12,Default,Real Estate,36148.82
+CR_466,633,50000.0,36,Default,Real Estate,45738.24
+CR_467,75,500.0,12,Default,None,0.0
+CR_468,725,5000.0,12,Active,None,0.0
+CR_469,575,10000.0,24,Closed,Real Estate,10177.85
+CR_470,322,25000.0,36,Closed,None,0.0
+CR_471,789,5000.0,60,Closed,Deposit,6109.53
+CR_472,437,5000.0,12,Closed,Deposit,4727.78
+CR_473,994,1000.0,36,Default,Deposit,583.12
+CR_474,173,25000.0,12,Active,Car,21531.73
+CR_475,620,10000.0,12,Active,None,0.0
+CR_476,866,25000.0,24,Active,Car,15665.08
+CR_477,96,50000.0,36,Closed,None,0.0
+CR_478,310,5000.0,12,Default,Deposit,2860.32
+CR_479,783,25000.0,12,Active,Deposit,27522.39
+CR_480,189,5000.0,6,Default,None,0.0
+CR_481,100,1000.0,12,Closed,None,0.0
+CR_482,538,1000.0,12,Active,Deposit,1134.09
+CR_483,799,25000.0,24,Active,Car,28409.05
+CR_484,558,50000.0,12,Active,None,0.0
+CR_485,352,50000.0,6,Default,Deposit,47960.18
+CR_486,30,10000.0,60,Closed,Real Estate,10458.41
+CR_487,543,25000.0,60,Closed,None,0.0
+CR_488,740,25000.0,36,Default,Deposit,19842.31
+CR_489,952,,24,Closed,None,0.0
+CR_490,222,25000.0,6,Active,Real Estate,27464.03
+CR_491,365,10000.0,24,Active,None,0.0
+CR_492,754,25000.0,12,Active,Car,25147.69
+CR_493,563,,6,Default,Car,0.0
+CR_494,177,1000.0,24,Default,Real Estate,529.31
+CR_495,644,1000.0,12,Active,None,0.0
+CR_496,754,10000.0,36,Default,Deposit,11877.76
+CR_497,810,25000.0,36,Default,Car,37276.03
+CR_498,803,500.0,6,Closed,Real Estate,432.81
+CR_499,548,5000.0,36,Default,None,0.0
+CR_500,921,,6,Active,None,0.0
+CR_501,696,25000.0,12,Closed,None,0.0
+CR_502,154,10000.0,6,Closed,Real Estate,9944.55
+CR_503,664,,12,Active,Real Estate,0.0
+CR_504,965,1000.0,6,Closed,Real Estate,1012.9
+CR_505,180,500.0,60,Default,Deposit,399.35
+CR_506,73,25000.0,60,Default,Deposit,32592.79
+CR_507,715,5000.0,60,Active,None,0.0
+CR_508,97,500.0,60,Active,None,0.0
+CR_509,848,50000.0,24,Active,None,0.0
+CR_510,138,50000.0,12,Default,Deposit,63751.88
+CR_511,960,500.0,12,Closed,None,0.0
+CR_512,731,500.0,12,Default,Deposit,567.6
+CR_513,359,500.0,36,Closed,None,0.0
+CR_514,254,500.0,36,Closed,Car,674.39
+CR_515,794,50000.0,12,Active,Car,33307.26
+CR_516,843,,36,Active,None,0.0
+CR_517,208,5000.0,12,Active,Real Estate,3801.9
+CR_518,467,50000.0,24,Closed,Deposit,48723.93
+CR_519,323,50000.0,24,Closed,Car,55371.59
+CR_520,250,50000.0,12,Default,Car,26883.98
+CR_521,422,25000.0,60,Active,None,0.0
+CR_522,627,50000.0,60,Active,Real Estate,33038.43
+CR_523,631,500.0,6,Active,Real Estate,582.74
+CR_524,217,,36,Active,Car,0.0
+CR_525,891,50000.0,60,Closed,Car,41321.07
+CR_526,944,5000.0,36,Closed,Deposit,5022.5
+CR_527,425,50000.0,6,Active,Car,58546.55
+CR_528,580,500.0,60,Closed,Real Estate,725.87
+CR_529,259,25000.0,36,Default,Deposit,30361.51
+CR_530,236,500.0,6,Closed,Real Estate,585.43
+CR_531,854,5000.0,36,Active,Car,3142.69
+CR_532,892,1000.0,6,Closed,Car,940.03
+CR_533,83,25000.0,24,Closed,Deposit,23688.04
+CR_534,643,500.0,12,Closed,None,0.0
+CR_535,185,500.0,36,Default,Deposit,644.25
+CR_536,916,25000.0,6,Active,None,0.0
+CR_537,208,500.0,60,Closed,None,0.0
+CR_538,776,25000.0,12,Default,Car,27965.54
+CR_539,436,5000.0,24,Default,Real Estate,5530.36
+CR_540,249,10000.0,24,Closed,Deposit,12446.07
+CR_541,604,25000.0,36,Default,Car,35524.51
+CR_542,570,500.0,24,Closed,Real Estate,594.34
+CR_543,23,10000.0,24,Default,Deposit,5665.74
+CR_544,643,10000.0,60,Closed,Car,8721.05
+CR_545,396,50000.0,36,Active,Car,57449.64
+CR_546,732,,36,Active,None,0.0
+CR_547,238,500.0,6,Default,Car,504.47
+CR_548,462,10000.0,60,Default,Real Estate,9337.08
+CR_549,122,50000.0,24,Default,Deposit,28546.49
+CR_550,232,10000.0,6,Active,Car,7773.93
+CR_551,898,,36,Closed,None,0.0
+CR_552,387,10000.0,24,Closed,Car,5319.32
+CR_553,307,10000.0,60,Active,Car,14597.72
+CR_554,749,5000.0,60,Closed,Real Estate,6371.02
+CR_555,902,,12,Active,Deposit,0.0
+CR_556,324,1000.0,60,Active,Real Estate,1314.44
+CR_557,607,500.0,24,Active,Deposit,653.18
+CR_558,122,25000.0,60,Active,None,0.0
+CR_559,181,1000.0,60,Closed,Car,1274.45
+CR_560,347,,12,Default,None,0.0
+CR_561,192,500.0,6,Active,Car,738.26
+CR_562,757,25000.0,12,Closed,Real Estate,18404.84
+CR_563,74,10000.0,36,Active,Real Estate,8481.01
+CR_564,201,5000.0,12,Active,None,0.0
+CR_565,731,500.0,60,Closed,None,0.0
+CR_566,515,1000.0,24,Active,None,0.0
+CR_567,632,,60,Closed,Car,0.0
+CR_568,671,500.0,12,Active,None,0.0
+CR_569,538,50000.0,12,Closed,Car,61424.84
+CR_570,733,10000.0,12,Active,Real Estate,11390.42
+CR_571,199,50000.0,36,Default,Deposit,74541.32
+CR_572,752,,36,Default,Car,0.0
+CR_573,7,25000.0,12,Default,Car,27325.36
+CR_574,344,50000.0,60,Closed,Car,55640.86
+CR_575,362,,6,Default,Deposit,0.0
+CR_576,574,500.0,36,Closed,Real Estate,255.57
+CR_577,309,50000.0,36,Closed,Car,59535.54
+CR_578,935,10000.0,24,Closed,Deposit,11940.97
+CR_579,199,50000.0,60,Default,Deposit,40293.14
+CR_580,769,10000.0,36,Active,Deposit,5848.17
+CR_581,54,10000.0,36,Active,None,0.0
+CR_582,399,25000.0,12,Default,Car,17423.59
+CR_583,230,10000.0,60,Active,Car,10431.08
+CR_584,124,50000.0,36,Active,Car,29512.61
+CR_585,930,1000.0,6,Closed,Deposit,636.47
+CR_586,166,5000.0,6,Active,Deposit,3990.58
+CR_587,227,5000.0,6,Closed,None,0.0
+CR_588,157,500.0,60,Active,Real Estate,436.85
+CR_589,696,25000.0,36,Closed,None,0.0
+CR_590,97,1000.0,6,Default,Deposit,1387.92
+CR_591,505,,12,Active,Real Estate,0.0
+CR_592,416,,6,Active,None,0.0
+CR_593,701,1000.0,36,Closed,Car,1473.2
+CR_594,917,1000.0,12,Default,Real Estate,996.65
+CR_595,720,1000.0,24,Active,None,0.0
+CR_596,324,500.0,60,Default,None,0.0
+CR_597,822,10000.0,12,Active,None,0.0
+CR_598,161,50000.0,12,Active,None,0.0
+CR_599,579,50000.0,12,Closed,None,0.0
+CR_600,838,,60,Default,Car,0.0
+CR_601,463,,6,Active,None,0.0
+CR_602,274,1000.0,12,Default,Deposit,651.75
+CR_603,993,25000.0,60,Active,Car,36127.58
+CR_604,886,50000.0,36,Closed,Deposit,31471.82
+CR_605,856,25000.0,6,Default,Car,27743.67
+CR_606,159,25000.0,6,Closed,Real Estate,34064.82
+CR_607,324,50000.0,6,Closed,Real Estate,56847.6
+CR_608,361,10000.0,24,Active,None,0.0
+CR_609,358,1000.0,60,Closed,Deposit,1157.53
+CR_610,673,25000.0,24,Active,Deposit,28082.3
+CR_611,151,5000.0,6,Default,Real Estate,4917.35
+CR_612,276,25000.0,36,Closed,Real Estate,15032.41
+CR_613,318,10000.0,6,Active,Car,14939.82
+CR_614,105,500.0,36,Active,None,0.0
+CR_615,259,5000.0,60,Closed,None,0.0
+CR_616,615,500.0,6,Active,Real Estate,661.78
+CR_617,674,5000.0,12,Default,Real Estate,6560.19
+CR_618,694,1000.0,12,Active,Real Estate,1117.46
+CR_619,4,5000.0,24,Closed,Real Estate,3366.5
+CR_620,855,500.0,60,Closed,None,0.0
+CR_621,592,1000.0,12,Closed,Deposit,892.86
+CR_622,861,25000.0,12,Default,Car,36456.54
+CR_623,538,25000.0,24,Default,Car,14401.98
+CR_624,145,25000.0,24,Closed,None,0.0
+CR_625,534,500.0,12,Closed,Real Estate,607.11
+CR_626,140,,12,Active,Car,0.0
+CR_627,798,10000.0,12,Default,Deposit,14952.75
+CR_628,760,,24,Default,Deposit,0.0
+CR_629,618,500.0,36,Closed,Real Estate,524.86
+CR_630,262,,24,Default,Deposit,0.0
+CR_631,215,1000.0,6,Active,None,0.0
+CR_632,256,5000.0,36,Active,None,0.0
+CR_633,250,25000.0,36,Closed,Real Estate,34092.83
+CR_634,261,10000.0,12,Default,Car,6429.53
+CR_635,14,10000.0,6,Closed,Deposit,11467.2
+CR_636,332,50000.0,60,Closed,Deposit,30494.04
+CR_637,396,500.0,36,Active,Car,404.38
+CR_638,34,500.0,12,Closed,Deposit,654.38
+CR_639,344,1000.0,12,Default,Car,1182.53
+CR_640,341,50000.0,60,Default,Car,29738.02
+CR_641,523,10000.0,60,Closed,Real Estate,14263.91
+CR_642,446,,6,Closed,Car,0.0
+CR_643,397,5000.0,36,Closed,None,0.0
+CR_644,819,50000.0,36,Default,Real Estate,59277.11
+CR_645,232,10000.0,12,Active,None,0.0
+CR_646,2,5000.0,60,Active,None,0.0
+CR_647,875,50000.0,6,Active,Real Estate,52434.98
+CR_648,976,500.0,24,Default,None,0.0
+CR_649,783,25000.0,12,Closed,Car,16435.87
+CR_650,563,1000.0,12,Default,Real Estate,1124.66
+CR_651,915,500.0,12,Closed,Deposit,407.76
+CR_652,632,5000.0,12,Default,Deposit,3098.56
+CR_653,596,1000.0,60,Closed,Real Estate,1336.03
+CR_654,862,5000.0,24,Default,Car,6603.17
+CR_655,571,1000.0,24,Closed,None,0.0
+CR_656,501,50000.0,24,Active,Real Estate,63801.94
+CR_657,774,,24,Default,Car,0.0
+CR_658,316,5000.0,60,Closed,Deposit,6415.89
+CR_659,619,500.0,6,Closed,Car,389.61
+CR_660,26,1000.0,24,Active,Deposit,1368.91
+CR_661,320,1000.0,6,Active,Deposit,643.92
+CR_662,465,25000.0,6,Default,Car,37362.82
+CR_663,682,50000.0,12,Default,Deposit,37984.24
+CR_664,203,10000.0,60,Default,None,0.0
+CR_665,309,500.0,24,Active,Car,509.46
+CR_666,695,50000.0,12,Active,None,0.0
+CR_667,299,50000.0,60,Closed,None,0.0
+CR_668,879,,24,Active,Deposit,0.0
+CR_669,827,,12,Default,None,0.0
+CR_670,311,,36,Closed,Car,0.0
+CR_671,546,25000.0,24,Active,Deposit,25213.82
+CR_672,934,10000.0,24,Active,Car,11283.07
+CR_673,805,1000.0,36,Default,None,0.0
+CR_674,186,50000.0,60,Default,Real Estate,42743.69
+CR_675,930,1000.0,12,Closed,Real Estate,1404.89
+CR_676,131,,36,Default,Real Estate,0.0
+CR_677,964,,36,Default,Deposit,0.0
+CR_678,592,5000.0,24,Default,Real Estate,5688.59
+CR_679,874,500.0,36,Default,None,0.0
+CR_680,890,25000.0,24,Active,Real Estate,29109.86
+CR_681,518,,6,Closed,None,0.0
+CR_682,835,5000.0,36,Active,None,0.0
+CR_683,551,50000.0,24,Closed,Deposit,41978.54
+CR_684,260,50000.0,36,Closed,Car,66568.8
+CR_685,736,,36,Active,Real Estate,0.0
+CR_686,191,50000.0,12,Default,Car,62866.27
+CR_687,444,,36,Active,Car,0.0
+CR_688,271,5000.0,36,Active,Car,7195.12
+CR_689,963,10000.0,36,Default,Real Estate,7799.07
+CR_690,464,25000.0,12,Active,Car,30432.78
+CR_691,531,10000.0,36,Default,Real Estate,10028.12
+CR_692,57,50000.0,36,Active,Car,70052.79
+CR_693,636,10000.0,60,Closed,Car,5862.16
+CR_694,29,5000.0,60,Active,Deposit,6009.43
+CR_695,881,,36,Closed,Real Estate,0.0
+CR_696,322,5000.0,12,Active,None,0.0
+CR_697,877,,6,Default,Car,0.0
+CR_698,805,25000.0,6,Default,None,0.0
+CR_699,938,50000.0,24,Default,Car,35739.43
+CR_700,897,25000.0,6,Active,Car,32691.66
+CR_701,922,,36,Closed,None,0.0
+CR_702,610,5000.0,12,Default,Deposit,6474.07
+CR_703,58,500.0,24,Default,Deposit,582.39
+CR_704,681,25000.0,24,Closed,Real Estate,33207.55
+CR_705,726,500.0,24,Closed,None,0.0
+CR_706,974,5000.0,12,Active,None,0.0
+CR_707,220,500.0,24,Closed,Deposit,746.62
+CR_708,737,,6,Default,Car,0.0
+CR_709,938,50000.0,36,Closed,Real Estate,30465.06
+CR_710,724,1000.0,24,Active,Deposit,1026.52
+CR_711,491,5000.0,6,Default,Car,2930.42
+CR_712,896,,24,Default,Deposit,0.0
+CR_713,143,1000.0,6,Closed,None,0.0
+CR_714,354,10000.0,6,Default,Car,5191.43
+CR_715,338,10000.0,36,Active,None,0.0
+CR_716,267,1000.0,6,Active,None,0.0
+CR_717,339,50000.0,6,Default,Deposit,27920.68
+CR_718,257,500.0,36,Closed,Car,698.43
+CR_719,567,,24,Active,None,0.0
+CR_720,599,1000.0,36,Active,Deposit,1404.53
+CR_721,38,,36,Closed,Car,0.0
+CR_722,116,50000.0,12,Active,Deposit,40241.52
+CR_723,618,1000.0,6,Closed,None,0.0
+CR_724,246,5000.0,6,Default,None,0.0
+CR_725,791,25000.0,36,Active,Car,31000.67
+CR_726,691,1000.0,60,Active,None,0.0
+CR_727,50,25000.0,36,Closed,Deposit,37257.03
+CR_728,835,,36,Active,Car,0.0
+CR_729,60,25000.0,36,Closed,Deposit,27034.21
+CR_730,515,500.0,36,Active,None,0.0
+CR_731,286,50000.0,60,Default,Car,48425.56
+CR_732,759,25000.0,6,Closed,None,0.0
+CR_733,768,5000.0,60,Closed,None,0.0
+CR_734,121,500.0,6,Active,None,0.0
+CR_735,699,500.0,60,Closed,None,0.0
+CR_736,689,10000.0,6,Closed,Car,10283.8
+CR_737,503,1000.0,36,Default,Deposit,856.85
+CR_738,787,5000.0,24,Closed,Real Estate,5334.43
+CR_739,679,500.0,60,Closed,Car,533.89
+CR_740,513,25000.0,12,Default,Deposit,26361.01
+CR_741,570,500.0,12,Default,None,0.0
+CR_742,330,50000.0,60,Active,None,0.0
+CR_743,165,10000.0,6,Active,Deposit,10412.17
+CR_744,105,500.0,60,Default,Car,278.2
+CR_745,661,5000.0,12,Closed,Deposit,6882.14
+CR_746,759,,12,Default,Deposit,0.0
+CR_747,321,,12,Active,Deposit,0.0
+CR_748,417,1000.0,24,Closed,None,0.0
+CR_749,817,50000.0,6,Closed,Car,29428.88
+CR_750,278,25000.0,24,Active,Real Estate,25503.69
+CR_751,914,5000.0,60,Closed,Real Estate,3023.95
+CR_752,88,1000.0,12,Closed,Deposit,1094.85
+CR_753,310,,24,Default,Deposit,0.0
+CR_754,309,50000.0,24,Active,Real Estate,51980.06
+CR_755,364,500.0,24,Closed,Car,545.97
+CR_756,430,,12,Closed,Car,0.0
+CR_757,620,10000.0,60,Closed,Deposit,12024.49
+CR_758,684,1000.0,36,Closed,Car,515.33
+CR_759,436,5000.0,6,Default,Deposit,2783.45
+CR_760,701,1000.0,60,Closed,Real Estate,940.0
+CR_761,135,25000.0,12,Default,None,0.0
+CR_762,514,1000.0,12,Active,Real Estate,1334.41
+CR_763,956,10000.0,24,Default,Real Estate,11310.73
+CR_764,186,1000.0,36,Active,Real Estate,1430.97
+CR_765,545,500.0,36,Active,Real Estate,265.74
+CR_766,491,5000.0,24,Default,None,0.0
+CR_767,620,25000.0,24,Default,Real Estate,26182.26
+CR_768,572,1000.0,24,Active,Car,1478.96
+CR_769,939,1000.0,12,Active,None,0.0
+CR_770,57,25000.0,60,Default,Real Estate,33822.12
+CR_771,613,1000.0,6,Closed,None,0.0
+CR_772,928,5000.0,24,Active,Real Estate,3888.35
+CR_773,183,50000.0,36,Active,Real Estate,61693.37
+CR_774,25,1000.0,12,Active,Real Estate,550.87
+CR_775,981,500.0,60,Default,Real Estate,626.57
+CR_776,828,1000.0,24,Default,None,0.0
+CR_777,47,25000.0,12,Closed,Real Estate,24118.47
+CR_778,966,,36,Active,None,0.0
+CR_779,925,50000.0,24,Closed,None,0.0
+CR_780,876,500.0,60,Active,None,0.0
+CR_781,325,,6,Closed,Deposit,0.0
+CR_782,536,1000.0,12,Closed,Car,766.21
+CR_783,991,50000.0,60,Active,None,0.0
+CR_784,962,,24,Default,None,0.0
+CR_785,710,5000.0,12,Default,Deposit,7168.84
+CR_786,877,50000.0,6,Active,None,0.0
+CR_787,874,500.0,36,Active,Deposit,285.54
+CR_788,422,1000.0,12,Default,Real Estate,1222.92
+CR_789,702,1000.0,36,Active,Deposit,967.84
+CR_790,46,500.0,12,Active,Real Estate,411.03
+CR_791,129,,24,Default,None,0.0
+CR_792,651,5000.0,60,Active,None,0.0
+CR_793,932,25000.0,36,Active,None,0.0
+CR_794,234,1000.0,24,Default,Car,752.3
+CR_795,789,,60,Active,Real Estate,0.0
+CR_796,818,50000.0,36,Active,Real Estate,36166.12
+CR_797,637,25000.0,24,Default,None,0.0
+CR_798,951,10000.0,12,Closed,Real Estate,14003.88
+CR_799,499,5000.0,60,Active,Real Estate,7355.3
+CR_800,943,10000.0,60,Default,None,0.0
+CR_801,583,500.0,60,Active,None,0.0
+CR_802,998,1000.0,6,Active,Car,705.33
+CR_803,621,50000.0,60,Active,Car,51892.95
+CR_804,324,5000.0,12,Active,Car,2648.19
+CR_805,940,500.0,60,Default,None,0.0
+CR_806,207,,36,Closed,Car,0.0
+CR_807,578,50000.0,6,Active,Real Estate,30656.48
+CR_808,239,,60,Closed,Car,0.0
+CR_809,335,50000.0,6,Default,Car,28919.24
+CR_810,531,1000.0,60,Closed,Real Estate,1065.17
+CR_811,828,,12,Active,Real Estate,0.0
+CR_812,543,1000.0,36,Closed,Deposit,1472.12
+CR_813,637,1000.0,60,Default,None,0.0
+CR_814,698,500.0,6,Default,None,0.0
+CR_815,589,10000.0,24,Default,Deposit,11676.89
+CR_816,449,500.0,12,Closed,Car,506.9
+CR_817,711,,36,Closed,Real Estate,0.0
+CR_818,643,1000.0,60,Closed,Deposit,1494.89
+CR_819,41,500.0,24,Active,Deposit,601.45
+CR_820,339,5000.0,36,Closed,Car,3564.67
+CR_821,700,5000.0,12,Closed,Real Estate,6726.71
+CR_822,298,10000.0,6,Active,None,0.0
+CR_823,380,5000.0,36,Closed,Real Estate,6428.54
+CR_824,706,500.0,12,Active,Real Estate,715.41
+CR_825,958,,6,Closed,Deposit,0.0
+CR_826,271,25000.0,12,Default,Real Estate,16261.54
+CR_827,909,,12,Closed,Car,0.0
+CR_828,727,,24,Default,Deposit,0.0
+CR_829,457,1000.0,60,Active,Deposit,1232.66
+CR_830,725,1000.0,24,Closed,Car,687.98
+CR_831,8,5000.0,60,Closed,Car,6028.58
+CR_832,142,5000.0,36,Closed,Deposit,4216.18
+CR_833,168,500.0,60,Default,None,0.0
+CR_834,899,50000.0,36,Active,None,0.0
+CR_835,732,50000.0,24,Default,Car,56683.82
+CR_836,788,25000.0,6,Closed,Car,15608.85
+CR_837,696,25000.0,60,Default,Deposit,19820.66
+CR_838,210,50000.0,12,Closed,Car,51259.66
+CR_839,389,5000.0,12,Active,Real Estate,6259.39
+CR_840,967,50000.0,60,Default,Deposit,62559.37
+CR_841,801,,60,Default,Car,0.0
+CR_842,153,50000.0,60,Default,Car,56859.15
+CR_843,772,1000.0,12,Default,Real Estate,1128.65
+CR_844,950,5000.0,6,Closed,None,0.0
+CR_845,310,500.0,24,Active,Real Estate,496.6
+CR_846,15,50000.0,60,Default,Deposit,40337.45
+CR_847,730,50000.0,24,Closed,Real Estate,33677.65
+CR_848,415,1000.0,36,Closed,Deposit,628.08
+CR_849,161,10000.0,24,Default,None,0.0
+CR_850,247,50000.0,12,Active,Deposit,27753.61
+CR_851,767,5000.0,24,Default,Real Estate,5852.57
+CR_852,537,1000.0,36,Closed,Deposit,1020.76
+CR_853,365,10000.0,36,Default,Deposit,6739.37
+CR_854,899,25000.0,36,Closed,Real Estate,24273.1
+CR_855,712,50000.0,36,Closed,Real Estate,70382.86
+CR_856,204,5000.0,60,Default,Real Estate,4650.36
+CR_857,404,500.0,36,Closed,Car,605.62
+CR_858,212,1000.0,24,Default,None,0.0
+CR_859,302,50000.0,24,Closed,Deposit,40984.74
+CR_860,474,50000.0,36,Active,None,0.0
+CR_861,439,1000.0,36,Active,Real Estate,594.67
+CR_862,134,50000.0,6,Closed,Deposit,33028.49
+CR_863,991,1000.0,6,Active,Car,1059.31
+CR_864,510,5000.0,36,Default,Real Estate,6300.08
+CR_865,503,1000.0,6,Default,Deposit,1335.32
+CR_866,666,,60,Default,Car,0.0
+CR_867,772,5000.0,6,Active,None,0.0
+CR_868,67,50000.0,24,Default,None,0.0
+CR_869,828,,60,Closed,None,0.0
+CR_870,871,25000.0,60,Default,Car,13815.47
+CR_871,134,5000.0,36,Closed,Real Estate,4199.57
+CR_872,2,50000.0,36,Closed,Deposit,27985.54
+CR_873,167,1000.0,60,Default,Real Estate,641.02
+CR_874,84,1000.0,60,Closed,Car,909.51
+CR_875,840,50000.0,6,Default,Real Estate,45607.66
+CR_876,614,,6,Active,Car,0.0
+CR_877,782,5000.0,24,Default,Car,7162.63
+CR_878,358,,60,Active,Car,0.0
+CR_879,788,10000.0,60,Active,Deposit,10320.62
+CR_880,714,5000.0,60,Default,None,0.0
+CR_881,665,500.0,6,Default,Car,471.67
+CR_882,407,5000.0,12,Default,Car,6401.13
+CR_883,259,50000.0,24,Default,Deposit,60620.16
+CR_884,143,25000.0,6,Closed,Real Estate,23361.65
+CR_885,134,1000.0,36,Default,Car,1442.27
+CR_886,200,50000.0,6,Active,Car,30241.84
+CR_887,913,500.0,12,Active,Real Estate,534.47
+CR_888,600,5000.0,6,Active,None,0.0
+CR_889,444,1000.0,12,Closed,Real Estate,1044.7
+CR_890,14,50000.0,12,Default,Real Estate,31657.9
+CR_891,577,10000.0,24,Active,Real Estate,8607.08
+CR_892,313,50000.0,24,Closed,None,0.0
+CR_893,393,,60,Active,Car,0.0
+CR_894,753,5000.0,60,Default,Real Estate,2905.82
+CR_895,553,5000.0,6,Active,None,0.0
+CR_896,498,10000.0,36,Closed,Real Estate,9908.03
+CR_897,682,,12,Default,None,0.0
+CR_898,681,10000.0,6,Default,None,0.0
+CR_899,857,500.0,36,Default,Real Estate,646.01
+CR_900,286,1000.0,60,Active,None,0.0
+CR_901,726,,60,Default,Deposit,0.0
+CR_902,611,500.0,6,Default,Car,413.84
+CR_903,905,1000.0,24,Active,Real Estate,506.47
+CR_904,372,25000.0,6,Default,Deposit,27577.16
+CR_905,513,10000.0,12,Active,Real Estate,5014.39
+CR_906,22,500.0,36,Closed,None,0.0
+CR_907,879,1000.0,12,Default,Real Estate,688.69
+CR_908,171,5000.0,12,Active,None,0.0
+CR_909,168,5000.0,24,Default,Deposit,6755.42
+CR_910,192,10000.0,12,Active,Real Estate,5665.1
+CR_911,992,50000.0,6,Closed,Car,67563.59
+CR_912,475,10000.0,24,Default,Real Estate,13878.85
+CR_913,345,10000.0,6,Active,Car,9198.96
+CR_914,35,5000.0,12,Active,Real Estate,4710.43
+CR_915,201,5000.0,6,Active,Deposit,4190.04
+CR_916,213,10000.0,60,Default,Car,11387.5
+CR_917,820,25000.0,12,Closed,Car,19240.51
+CR_918,156,,36,Active,Car,0.0
+CR_919,520,25000.0,12,Active,Deposit,26806.13
+CR_920,671,500.0,12,Closed,Deposit,288.57
+CR_921,395,25000.0,36,Default,None,0.0
+CR_922,194,1000.0,6,Default,Car,1068.82
+CR_923,670,10000.0,60,Default,Car,5884.84
+CR_924,181,1000.0,36,Default,Car,1282.74
+CR_925,621,25000.0,36,Closed,Car,30953.43
+CR_926,522,,60,Active,None,0.0
+CR_927,679,50000.0,36,Active,None,0.0
+CR_928,552,500.0,6,Default,None,0.0
+CR_929,852,500.0,12,Closed,Car,403.29
+CR_930,937,25000.0,60,Active,Deposit,20584.47
+CR_931,329,500.0,24,Default,Car,400.54
+CR_932,257,500.0,12,Default,Deposit,681.72
+CR_933,781,500.0,6,Closed,Deposit,637.69
+CR_934,312,500.0,36,Active,Deposit,688.76
+CR_935,512,10000.0,24,Closed,Deposit,10933.26
+CR_936,558,1000.0,60,Default,Deposit,1480.69
+CR_937,955,5000.0,24,Active,None,0.0
+CR_938,41,25000.0,24,Default,None,0.0
+CR_939,249,1000.0,12,Active,Deposit,568.4
+CR_940,113,10000.0,24,Closed,None,0.0
+CR_941,418,5000.0,36,Closed,None,0.0
+CR_942,368,25000.0,6,Default,None,0.0
+CR_943,616,5000.0,12,Closed,None,0.0
+CR_944,454,,36,Closed,Car,0.0
+CR_945,134,25000.0,60,Default,Real Estate,19348.46
+CR_946,38,10000.0,12,Active,Car,13183.86
+CR_947,143,500.0,12,Closed,Real Estate,377.09
+CR_948,907,10000.0,60,Active,Car,13607.98
+CR_949,369,500.0,60,Active,None,0.0
+CR_950,580,,24,Closed,None,0.0
+CR_951,105,10000.0,6,Closed,None,0.0
+CR_952,212,10000.0,12,Closed,None,0.0
+CR_953,75,5000.0,60,Closed,Real Estate,5046.62
+CR_954,102,25000.0,60,Active,Deposit,34926.32
+CR_955,968,500.0,36,Default,Car,507.1
+CR_956,842,500.0,60,Closed,Car,472.97
+CR_957,178,10000.0,36,Default,Deposit,8983.26
+CR_958,524,1000.0,12,Closed,None,0.0
+CR_959,342,10000.0,60,Closed,None,0.0
+CR_960,586,25000.0,36,Default,Deposit,36147.4
+CR_961,718,10000.0,12,Closed,Deposit,12584.65
+CR_962,545,50000.0,6,Active,Deposit,44111.95
+CR_963,660,,36,Closed,Real Estate,0.0
+CR_964,633,50000.0,6,Closed,Car,58543.43
+CR_965,351,500.0,6,Closed,Deposit,607.89
+CR_966,791,10000.0,60,Default,Deposit,10170.18
+CR_967,588,25000.0,36,Default,None,0.0
+CR_968,131,1000.0,24,Closed,Deposit,1116.09
+CR_969,65,,6,Active,None,0.0
+CR_970,494,50000.0,12,Active,Real Estate,53257.45
+CR_971,89,50000.0,36,Default,Real Estate,45192.33
+CR_972,507,5000.0,12,Closed,Real Estate,2599.76
+CR_973,384,10000.0,60,Closed,Real Estate,11935.21
+CR_974,409,10000.0,6,Closed,Deposit,10023.34
+CR_975,652,5000.0,60,Closed,None,0.0
+CR_976,957,1000.0,24,Default,None,0.0
+CR_977,547,1000.0,24,Default,Real Estate,1448.36
+CR_978,867,1000.0,36,Active,Car,830.54
+CR_979,803,5000.0,12,Closed,Real Estate,4235.19
+CR_980,53,25000.0,36,Default,Car,34544.67
+CR_981,509,25000.0,6,Closed,Deposit,19132.78
+CR_982,474,50000.0,12,Active,Real Estate,37105.35
+CR_983,45,1000.0,60,Closed,None,0.0
+CR_984,201,25000.0,36,Default,Real Estate,37041.72
+CR_985,930,10000.0,60,Active,Deposit,11022.89
+CR_986,977,500.0,24,Active,Real Estate,532.3
+CR_987,815,25000.0,6,Closed,Deposit,25614.76
+CR_988,244,25000.0,60,Closed,Car,21308.5
+CR_989,590,25000.0,60,Default,None,0.0
+CR_990,712,10000.0,6,Closed,Car,13135.67
+CR_991,250,5000.0,36,Active,Car,4156.16
+CR_992,703,,36,Closed,Deposit,0.0
+CR_993,683,25000.0,36,Active,Real Estate,26288.11
+CR_994,107,25000.0,60,Closed,None,0.0
+CR_995,447,5000.0,6,Active,Car,6492.36
+CR_996,3,1000.0,6,Closed,Car,1320.57
+CR_997,922,1000.0,6,Default,Car,538.4
+CR_998,365,25000.0,24,Closed,None,0.0
+CR_999,640,1000.0,36,Default,Car,750.56
+CR_1000,468,5000.0,60,Default,Car,4779.27
+CR_1001,131,10000.0,6,Closed,Car,8311.2
+CR_1002,315,50000.0,24,Closed,Deposit,57845.28
+CR_1003,946,50000.0,6,Closed,Car,64109.95
+CR_1004,478,1000.0,60,Closed,Car,750.09
+CR_1005,652,50000.0,24,Default,Deposit,32626.71
+CR_1006,920,500.0,36,Default,Real Estate,618.92
+CR_1007,217,50000.0,60,Default,None,0.0
+CR_1008,394,5000.0,36,Closed,None,0.0
+CR_1009,168,,36,Closed,Car,0.0
+CR_1010,129,500.0,24,Default,Car,626.94
+CR_1011,315,1000.0,6,Closed,None,0.0
+CR_1012,298,,36,Default,Real Estate,0.0
+CR_1013,575,5000.0,6,Active,Real Estate,5410.52
+CR_1014,871,500.0,36,Closed,Deposit,449.12
+CR_1015,329,5000.0,36,Default,Deposit,3537.31
+CR_1016,617,10000.0,36,Active,Car,7343.51
+CR_1017,681,500.0,24,Closed,Real Estate,697.79
+CR_1018,617,500.0,12,Closed,None,0.0
+CR_1019,43,500.0,36,Closed,Real Estate,675.67
+CR_1020,114,1000.0,6,Active,Deposit,553.78
+CR_1021,384,500.0,24,Closed,None,0.0
+CR_1022,755,500.0,60,Active,Car,478.42
+CR_1023,973,10000.0,60,Closed,None,0.0
+CR_1024,434,25000.0,24,Active,None,0.0
+CR_1025,389,1000.0,24,Active,Car,1001.01
+CR_1026,519,10000.0,6,Closed,Car,8183.26
+CR_1027,829,500.0,36,Closed,Car,709.34
+CR_1028,505,500.0,60,Closed,None,0.0
+CR_1029,763,500.0,36,Active,Real Estate,679.9
+CR_1030,685,500.0,12,Default,Real Estate,414.17
+CR_1031,141,,36,Default,None,0.0
+CR_1032,974,25000.0,60,Default,Deposit,21810.91
+CR_1033,189,25000.0,6,Closed,Real Estate,26334.64
+CR_1034,115,10000.0,60,Default,Deposit,7302.78
+CR_1035,452,5000.0,12,Closed,Real Estate,6756.36
+CR_1036,683,50000.0,36,Default,None,0.0
+CR_1037,256,25000.0,36,Closed,None,0.0
+CR_1038,267,5000.0,60,Default,Car,2884.08
+CR_1039,297,,6,Active,Real Estate,0.0
+CR_1040,494,10000.0,12,Closed,Real Estate,11524.08
+CR_1041,63,500.0,24,Default,Deposit,375.14
+CR_1042,613,5000.0,12,Closed,Real Estate,3414.44
+CR_1043,591,500.0,6,Active,Deposit,493.41
+CR_1044,620,1000.0,12,Closed,Car,1113.87
+CR_1045,236,,12,Default,Car,0.0
+CR_1046,721,500.0,6,Default,Deposit,611.12
+CR_1047,580,5000.0,36,Active,Deposit,3011.28
+CR_1048,588,10000.0,12,Closed,Deposit,11508.93
+CR_1049,654,10000.0,6,Closed,None,0.0
+CR_1050,943,1000.0,6,Closed,Deposit,523.88
+CR_1051,791,1000.0,12,Closed,Real Estate,557.16
+CR_1052,516,50000.0,24,Closed,None,0.0
+CR_1053,631,10000.0,6,Default,Car,11548.06
+CR_1054,372,5000.0,24,Active,Car,4609.36
+CR_1055,844,500.0,6,Active,Car,453.96
+CR_1056,940,1000.0,6,Active,Real Estate,1428.71
+CR_1057,364,25000.0,60,Active,None,0.0
+CR_1058,942,25000.0,60,Closed,Car,13870.49
+CR_1059,670,10000.0,60,Closed,Deposit,10628.12
+CR_1060,276,50000.0,6,Closed,None,0.0
+CR_1061,830,25000.0,24,Closed,Car,14037.2
+CR_1062,943,1000.0,36,Active,Deposit,1438.69
+CR_1063,485,500.0,12,Closed,None,0.0
+CR_1064,504,,6,Default,Car,0.0
+CR_1065,677,5000.0,12,Default,Car,2826.35
+CR_1066,153,50000.0,24,Active,Real Estate,32848.64
+CR_1067,134,50000.0,24,Default,Real Estate,47456.63
+CR_1068,583,25000.0,60,Default,Deposit,36500.05
+CR_1069,906,10000.0,6,Active,None,0.0
+CR_1070,763,25000.0,60,Closed,Car,17841.95
+CR_1071,797,25000.0,36,Active,Car,22330.1
+CR_1072,743,10000.0,60,Default,Deposit,11864.08
+CR_1073,238,,12,Closed,Car,0.0
+CR_1074,387,1000.0,36,Closed,Real Estate,695.7
+CR_1075,280,500.0,24,Closed,Deposit,367.38
+CR_1076,99,10000.0,24,Default,None,0.0
+CR_1077,796,10000.0,60,Closed,Real Estate,10472.5
+CR_1078,304,50000.0,12,Closed,None,0.0
+CR_1079,922,5000.0,6,Closed,None,0.0
+CR_1080,516,1000.0,60,Closed,Real Estate,1443.07
+CR_1081,735,10000.0,12,Default,Car,11973.28
+CR_1082,56,5000.0,36,Closed,None,0.0
+CR_1083,69,10000.0,12,Default,Real Estate,14352.42
+CR_1084,934,10000.0,12,Closed,Deposit,6023.44
+CR_1085,77,,6,Default,Car,0.0
+CR_1086,276,500.0,12,Active,Deposit,367.17
+CR_1087,190,10000.0,12,Active,None,0.0
+CR_1088,989,25000.0,6,Active,Deposit,35242.69
+CR_1089,19,5000.0,12,Active,Deposit,6534.92
+CR_1090,295,1000.0,24,Default,Real Estate,1374.21
+CR_1091,799,10000.0,6,Active,Real Estate,14492.36
+CR_1092,733,10000.0,24,Default,Deposit,5788.52
+CR_1093,725,500.0,36,Closed,Real Estate,597.18
+CR_1094,423,25000.0,6,Default,Real Estate,23269.64
+CR_1095,687,5000.0,12,Closed,None,0.0
+CR_1096,610,1000.0,12,Active,None,0.0
+CR_1097,565,,36,Active,Deposit,0.0
+CR_1098,79,500.0,24,Default,Real Estate,424.38
+CR_1099,732,5000.0,6,Active,Real Estate,3431.68
+CR_1100,821,,36,Closed,None,0.0
+CR_1101,670,5000.0,6,Active,Car,5621.29
+CR_1102,139,5000.0,60,Closed,Car,5786.2
+CR_1103,345,25000.0,6,Closed,None,0.0
+CR_1104,637,25000.0,12,Closed,Deposit,32125.3
+CR_1105,811,500.0,12,Default,None,0.0
+CR_1106,909,5000.0,12,Closed,Deposit,6896.2
+CR_1107,124,1000.0,6,Closed,None,0.0
+CR_1108,537,1000.0,36,Closed,Car,1329.64
+CR_1109,298,25000.0,36,Closed,Deposit,22622.4
+CR_1110,858,5000.0,6,Active,Real Estate,3850.74
+CR_1111,2,500.0,12,Closed,Car,483.74
+CR_1112,38,25000.0,6,Closed,Car,21451.46
+CR_1113,511,10000.0,36,Closed,Real Estate,10046.88
+CR_1114,229,5000.0,12,Default,Car,3647.8
+CR_1115,478,1000.0,24,Active,Deposit,661.16
+CR_1116,351,50000.0,24,Active,Deposit,72247.63
+CR_1117,28,5000.0,60,Default,Car,7263.18
+CR_1118,783,500.0,6,Default,Real Estate,369.51
+CR_1119,756,,60,Closed,None,0.0
+CR_1120,435,500.0,6,Closed,None,0.0
+CR_1121,504,1000.0,24,Active,Deposit,1259.75
+CR_1122,382,50000.0,6,Closed,Real Estate,57429.79
+CR_1123,883,,60,Active,Deposit,0.0
+CR_1124,957,25000.0,12,Active,None,0.0
+CR_1125,183,25000.0,60,Closed,None,0.0
+CR_1126,336,5000.0,24,Default,Deposit,6982.64
+CR_1127,936,5000.0,6,Closed,Real Estate,5126.34
+CR_1128,982,,36,Closed,Car,0.0
+CR_1129,264,25000.0,6,Default,Real Estate,13887.62
+CR_1130,858,5000.0,24,Closed,Real Estate,3137.77
+CR_1131,123,1000.0,24,Default,Deposit,660.29
+CR_1132,626,500.0,24,Closed,None,0.0
+CR_1133,421,50000.0,24,Active,Deposit,36237.0
+CR_1134,430,,36,Closed,Car,0.0
+CR_1135,445,5000.0,6,Default,Deposit,2686.57
+CR_1136,790,50000.0,60,Active,Car,52117.91
+CR_1137,849,,24,Closed,Real Estate,0.0
+CR_1138,898,10000.0,6,Closed,None,0.0
+CR_1139,524,,24,Default,Real Estate,0.0
+CR_1140,328,50000.0,24,Closed,None,0.0
+CR_1141,987,500.0,24,Default,None,0.0
+CR_1142,199,10000.0,60,Default,None,0.0
+CR_1143,259,1000.0,60,Default,None,0.0
+CR_1144,478,500.0,36,Default,Car,586.81
+CR_1145,29,10000.0,36,Active,Car,6096.35
+CR_1146,60,10000.0,36,Active,Real Estate,14196.58
+CR_1147,295,50000.0,6,Active,None,0.0
+CR_1148,839,1000.0,6,Closed,Car,1260.55
+CR_1149,792,1000.0,6,Closed,Real Estate,1129.68
+CR_1150,260,500.0,36,Default,Deposit,636.88
+CR_1151,73,1000.0,60,Closed,None,0.0
+CR_1152,371,500.0,60,Default,Car,683.99
+CR_1153,159,1000.0,60,Closed,Car,860.45
+CR_1154,46,1000.0,60,Closed,Car,1319.13
+CR_1155,920,50000.0,60,Default,None,0.0
+CR_1156,254,50000.0,12,Default,Real Estate,25452.15
+CR_1157,268,1000.0,36,Default,Car,847.88
+CR_1158,672,50000.0,6,Closed,Deposit,54446.19
+CR_1159,86,50000.0,12,Closed,Real Estate,55148.3
+CR_1160,825,500.0,24,Active,None,0.0
+CR_1161,314,,60,Closed,Deposit,0.0
+CR_1162,18,1000.0,36,Active,None,0.0
+CR_1163,913,25000.0,36,Closed,None,0.0
+CR_1164,649,10000.0,6,Closed,None,0.0
+CR_1165,977,50000.0,60,Default,Deposit,71353.07
+CR_1166,86,25000.0,36,Active,Car,32908.75
+CR_1167,75,50000.0,12,Default,None,0.0
+CR_1168,14,500.0,60,Default,None,0.0
+CR_1169,525,50000.0,12,Active,None,0.0
+CR_1170,375,,6,Closed,Car,0.0
+CR_1171,113,25000.0,60,Default,None,0.0
+CR_1172,818,10000.0,24,Active,Real Estate,5988.44
+CR_1173,786,10000.0,36,Default,None,0.0
+CR_1174,412,5000.0,60,Active,Deposit,6282.62
+CR_1175,255,25000.0,60,Default,Real Estate,24610.92
+CR_1176,319,1000.0,12,Closed,Real Estate,610.94
+CR_1177,571,,12,Closed,Real Estate,0.0
+CR_1178,783,25000.0,12,Closed,Deposit,30111.49
+CR_1179,299,1000.0,24,Default,Car,805.22
+CR_1180,846,1000.0,36,Closed,Real Estate,855.95
+CR_1181,335,10000.0,6,Default,Real Estate,8095.25
+CR_1182,690,500.0,60,Closed,Real Estate,734.26
+CR_1183,159,50000.0,6,Closed,Deposit,33531.81
+CR_1184,500,1000.0,36,Default,Deposit,1259.4
+CR_1185,37,50000.0,60,Closed,None,0.0
+CR_1186,60,50000.0,36,Closed,Deposit,51470.4
+CR_1187,798,25000.0,24,Default,Car,12838.46
+CR_1188,462,50000.0,24,Closed,Deposit,37539.48
+CR_1189,649,,12,Active,Real Estate,0.0
+CR_1190,529,5000.0,24,Default,Car,2593.35
+CR_1191,898,500.0,24,Active,Real Estate,364.04
+CR_1192,840,1000.0,60,Active,Deposit,673.16
+CR_1193,244,1000.0,24,Active,Real Estate,839.93
+CR_1194,303,500.0,36,Active,Car,528.72
+CR_1195,247,1000.0,36,Default,None,0.0
+CR_1196,457,50000.0,12,Default,Real Estate,39620.11
+CR_1197,738,25000.0,60,Active,None,0.0
+CR_1198,339,500.0,12,Active,None,0.0
+CR_1199,787,,60,Default,Deposit,0.0
+CR_1200,472,1000.0,6,Default,None,0.0
+CR_1201,345,,24,Active,None,0.0
+CR_1202,635,1000.0,60,Default,Car,1244.13
+CR_1203,125,500.0,60,Closed,Deposit,458.42
+CR_1204,826,5000.0,6,Closed,Car,4345.58
+CR_1205,21,5000.0,60,Closed,Deposit,6694.48
+CR_1206,296,,12,Active,Car,0.0
+CR_1207,352,5000.0,12,Active,Car,4488.29
+CR_1208,612,,36,Closed,Real Estate,0.0
+CR_1209,426,25000.0,36,Closed,Real Estate,36490.3
+CR_1210,213,25000.0,24,Active,None,0.0
+CR_1211,690,25000.0,36,Default,Car,16043.07
+CR_1212,86,10000.0,24,Closed,Car,14871.56
+CR_1213,100,25000.0,12,Closed,Car,30973.58
+CR_1214,814,50000.0,36,Closed,Real Estate,67593.43
+CR_1215,16,10000.0,24,Active,Real Estate,5076.38
+CR_1216,922,,24,Default,Deposit,0.0
+CR_1217,418,1000.0,12,Default,Deposit,1299.02
+CR_1218,860,10000.0,6,Closed,None,0.0
+CR_1219,40,1000.0,60,Active,Car,1026.27
+CR_1220,98,5000.0,6,Default,Deposit,3682.01
+CR_1221,321,1000.0,36,Default,None,0.0
+CR_1222,413,,6,Active,Real Estate,0.0
+CR_1223,830,5000.0,24,Active,None,0.0
+CR_1224,1000,1000.0,12,Active,None,0.0
+CR_1225,349,50000.0,12,Active,Deposit,33558.01
+CR_1226,155,500.0,60,Closed,Real Estate,527.26
+CR_1227,409,5000.0,12,Active,Car,6773.11
+CR_1228,14,50000.0,60,Closed,Real Estate,43611.2
+CR_1229,303,10000.0,24,Default,Real Estate,6314.29
+CR_1230,588,1000.0,36,Active,None,0.0
+CR_1231,641,,6,Default,Real Estate,0.0
+CR_1232,525,10000.0,24,Default,Car,6582.13
+CR_1233,451,25000.0,36,Active,Real Estate,25205.29
+CR_1234,387,1000.0,24,Default,None,0.0
+CR_1235,972,25000.0,6,Default,Real Estate,16628.86
+CR_1236,583,50000.0,36,Closed,Real Estate,41296.79
+CR_1237,290,5000.0,60,Closed,Car,6678.76
+CR_1238,633,50000.0,6,Default,Real Estate,32808.59
+CR_1239,142,,12,Default,Real Estate,0.0
+CR_1240,505,1000.0,60,Default,Deposit,1096.56
+CR_1241,718,5000.0,60,Closed,None,0.0
+CR_1242,931,10000.0,6,Default,Deposit,13597.45
+CR_1243,489,1000.0,12,Active,Real Estate,695.44
+CR_1244,30,50000.0,12,Closed,Real Estate,45913.94
+CR_1245,98,5000.0,36,Default,Real Estate,6092.34
+CR_1246,97,1000.0,12,Closed,Real Estate,1058.81
+CR_1247,108,1000.0,12,Closed,None,0.0
+CR_1248,113,50000.0,6,Default,Deposit,72808.52
+CR_1249,29,500.0,36,Default,Real Estate,446.77
+CR_1250,937,50000.0,36,Default,None,0.0
+CR_1251,352,50000.0,60,Active,Car,59863.67
+CR_1252,94,500.0,60,Active,None,0.0
+CR_1253,366,1000.0,60,Active,None,0.0
+CR_1254,300,,60,Active,Real Estate,0.0
+CR_1255,839,1000.0,24,Default,None,0.0
+CR_1256,324,,36,Active,Deposit,0.0
+CR_1257,572,500.0,36,Default,Car,392.71
+CR_1258,476,1000.0,6,Default,Real Estate,1017.01
+CR_1259,537,500.0,12,Default,Deposit,355.97
+CR_1260,632,,24,Default,Deposit,0.0
+CR_1261,275,10000.0,24,Active,None,0.0
+CR_1262,84,5000.0,36,Active,None,0.0
+CR_1263,28,,24,Closed,Deposit,0.0
+CR_1264,251,25000.0,12,Closed,Real Estate,15807.15
+CR_1265,530,10000.0,36,Closed,Real Estate,12275.62
+CR_1266,257,5000.0,24,Default,Real Estate,3407.28
+CR_1267,127,10000.0,36,Default,None,0.0
+CR_1268,169,,60,Active,Car,0.0
+CR_1269,784,1000.0,12,Default,Real Estate,1447.82
+CR_1270,444,50000.0,60,Closed,Deposit,44963.66
+CR_1271,470,10000.0,12,Closed,Real Estate,10833.73
+CR_1272,804,,24,Closed,Deposit,0.0
+CR_1273,620,,36,Active,Car,0.0
+CR_1274,264,1000.0,24,Closed,Real Estate,953.73
+CR_1275,66,50000.0,60,Closed,Real Estate,55014.53
+CR_1276,851,50000.0,12,Closed,Real Estate,45497.31
+CR_1277,48,10000.0,12,Active,Car,14608.53
+CR_1278,287,,36,Closed,None,0.0
+CR_1279,347,50000.0,24,Closed,Deposit,61126.67
+CR_1280,658,50000.0,12,Active,Real Estate,52408.54
+CR_1281,751,500.0,24,Default,Real Estate,253.83
+CR_1282,5,,24,Closed,Car,0.0
+CR_1283,397,5000.0,12,Active,None,0.0
+CR_1284,322,10000.0,36,Default,None,0.0
+CR_1285,603,5000.0,24,Default,Deposit,2784.1
+CR_1286,506,25000.0,24,Active,Real Estate,24612.16
+CR_1287,828,,6,Active,Real Estate,0.0
+CR_1288,326,50000.0,6,Default,None,0.0
+CR_1289,472,5000.0,24,Closed,Deposit,2978.19
+CR_1290,670,,12,Closed,Deposit,0.0
+CR_1291,767,500.0,6,Default,Real Estate,655.87
+CR_1292,290,10000.0,6,Closed,Deposit,7257.56
+CR_1293,762,5000.0,6,Default,Car,6183.96
+CR_1294,145,500.0,60,Closed,Deposit,440.56
+CR_1295,788,10000.0,12,Default,Car,10037.93
+CR_1296,252,500.0,12,Default,Car,477.81
+CR_1297,496,,24,Closed,None,0.0
+CR_1298,945,,36,Default,Deposit,0.0
+CR_1299,399,25000.0,36,Active,Car,19804.42
+CR_1300,972,10000.0,6,Closed,Real Estate,6535.33
+CR_1301,571,500.0,36,Default,None,0.0
+CR_1302,195,10000.0,60,Closed,Real Estate,14984.62
+CR_1303,520,1000.0,24,Closed,Deposit,1010.19
+CR_1304,344,10000.0,60,Active,Deposit,7750.24
+CR_1305,632,5000.0,6,Closed,Real Estate,4963.4
+CR_1306,861,1000.0,36,Active,None,0.0
+CR_1307,399,5000.0,36,Default,Car,5200.49
+CR_1308,832,1000.0,12,Closed,Deposit,1103.94
+CR_1309,873,1000.0,6,Default,Deposit,1165.87
+CR_1310,386,50000.0,60,Default,Car,48998.99
+CR_1311,134,25000.0,6,Closed,Real Estate,33156.74
+CR_1312,264,500.0,12,Default,None,0.0
+CR_1313,91,1000.0,12,Active,Deposit,1323.88
+CR_1314,783,,60,Active,Real Estate,0.0
+CR_1315,258,50000.0,12,Active,None,0.0
+CR_1316,920,25000.0,12,Default,Car,22482.04
+CR_1317,225,5000.0,6,Closed,Real Estate,4990.44
+CR_1318,214,50000.0,24,Default,Car,28887.82
+CR_1319,81,500.0,60,Active,Deposit,331.8
+CR_1320,347,10000.0,36,Closed,Deposit,9517.54
+CR_1321,62,5000.0,24,Active,Car,7370.23
+CR_1322,724,5000.0,36,Active,Real Estate,3770.23
+CR_1323,497,25000.0,12,Active,Real Estate,30926.46
+CR_1324,115,1000.0,24,Closed,Car,936.59
+CR_1325,976,50000.0,6,Closed,Real Estate,57204.78
+CR_1326,700,10000.0,6,Default,Deposit,10113.67
+CR_1327,531,500.0,24,Closed,Car,662.87
+CR_1328,147,50000.0,6,Default,Car,43267.71
+CR_1329,896,5000.0,36,Closed,Car,4954.46
+CR_1330,565,50000.0,12,Closed,Real Estate,61387.44
+CR_1331,894,25000.0,12,Default,Car,28560.16
+CR_1332,151,500.0,12,Closed,None,0.0
+CR_1333,720,,24,Active,Real Estate,0.0
+CR_1334,908,10000.0,24,Default,Car,11577.35
+CR_1335,825,25000.0,36,Closed,None,0.0
+CR_1336,317,10000.0,60,Default,Car,12739.06
+CR_1337,928,,60,Default,Deposit,0.0
+CR_1338,875,500.0,6,Active,Car,376.07
+CR_1339,161,500.0,36,Default,Car,348.5
+CR_1340,158,5000.0,60,Closed,None,0.0
+CR_1341,560,10000.0,36,Closed,Real Estate,11283.58
+CR_1342,416,500.0,60,Default,None,0.0
+CR_1343,807,10000.0,6,Active,None,0.0
+CR_1344,676,5000.0,60,Default,Car,7432.2
+CR_1345,157,,24,Active,Car,0.0
+CR_1346,989,5000.0,60,Active,Real Estate,4124.27
+CR_1347,945,1000.0,60,Default,Car,564.14
+CR_1348,272,10000.0,36,Closed,None,0.0
+CR_1349,193,5000.0,36,Default,Real Estate,6089.36
+CR_1350,29,50000.0,60,Closed,Deposit,72227.35
+CR_1351,124,,24,Active,None,0.0
+CR_1352,73,10000.0,6,Closed,Deposit,10815.43
+CR_1353,823,,60,Closed,None,0.0
+CR_1354,301,500.0,12,Active,None,0.0
+CR_1355,883,500.0,24,Closed,Deposit,743.69
+CR_1356,446,,36,Closed,Car,0.0
+CR_1357,375,500.0,12,Closed,None,0.0
+CR_1358,336,25000.0,6,Active,Deposit,30585.32
+CR_1359,371,25000.0,60,Default,Real Estate,20862.79
+CR_1360,253,,24,Default,Deposit,0.0
+CR_1361,170,500.0,24,Default,Real Estate,491.46
+CR_1362,30,,12,Active,Deposit,0.0
+CR_1363,138,5000.0,6,Default,Deposit,5322.11
+CR_1364,890,1000.0,60,Default,None,0.0
+CR_1365,742,5000.0,6,Default,Deposit,5073.48
+CR_1366,247,25000.0,60,Closed,None,0.0
+CR_1367,896,5000.0,12,Active,None,0.0
+CR_1368,935,50000.0,24,Active,None,0.0
+CR_1369,246,25000.0,12,Closed,Car,21486.29
+CR_1370,745,1000.0,6,Closed,Deposit,1177.12
+CR_1371,419,10000.0,6,Active,Car,10420.55
+CR_1372,370,50000.0,24,Default,Real Estate,53147.03
+CR_1373,168,25000.0,60,Active,Real Estate,33347.94
+CR_1374,828,50000.0,36,Closed,Real Estate,64937.25
+CR_1375,620,500.0,12,Default,Car,726.32
+CR_1376,885,50000.0,12,Closed,Deposit,30273.18
+CR_1377,924,50000.0,24,Closed,Car,46042.05
+CR_1378,142,5000.0,60,Closed,Deposit,7481.92
+CR_1379,546,1000.0,24,Default,None,0.0
+CR_1380,407,500.0,36,Active,Car,318.15
+CR_1381,606,500.0,36,Closed,None,0.0
+CR_1382,46,1000.0,24,Default,Deposit,1326.08
+CR_1383,768,5000.0,24,Closed,Deposit,2707.23
+CR_1384,847,5000.0,60,Default,Deposit,5879.09
+CR_1385,545,5000.0,6,Closed,Car,2950.46
+CR_1386,168,25000.0,24,Closed,Car,31400.88
+CR_1387,823,25000.0,60,Default,Deposit,35337.97
+CR_1388,511,25000.0,60,Active,Car,27689.51
+CR_1389,602,1000.0,36,Active,Real Estate,1182.62
+CR_1390,955,10000.0,6,Default,Deposit,9740.89
+CR_1391,721,10000.0,6,Closed,Car,9781.89
+CR_1392,829,5000.0,36,Default,Real Estate,7397.69
+CR_1393,494,500.0,24,Default,Deposit,413.3
+CR_1394,613,,6,Default,None,0.0
+CR_1395,918,1000.0,24,Active,Deposit,1285.0
+CR_1396,579,25000.0,60,Default,Deposit,26782.81
+CR_1397,21,5000.0,6,Active,None,0.0
+CR_1398,834,50000.0,24,Active,Real Estate,25589.0
+CR_1399,336,1000.0,60,Active,Car,1195.13
+CR_1400,442,,36,Default,Car,0.0
+CR_1401,849,25000.0,36,Active,Real Estate,17536.21
+CR_1402,927,,6,Active,Car,0.0
+CR_1403,652,,12,Active,None,0.0
+CR_1404,379,10000.0,24,Active,Real Estate,5109.44
+CR_1405,96,50000.0,36,Default,None,0.0
+CR_1406,677,5000.0,60,Active,Deposit,3247.49
+CR_1407,609,25000.0,60,Default,None,0.0
+CR_1408,516,1000.0,6,Default,Real Estate,766.06
+CR_1409,139,,24,Closed,Deposit,0.0
+CR_1410,188,5000.0,36,Closed,None,0.0
+CR_1411,29,25000.0,60,Default,Real Estate,31470.32
+CR_1412,890,500.0,60,Closed,None,0.0
+CR_1413,56,1000.0,36,Closed,Real Estate,1043.82
+CR_1414,610,50000.0,6,Closed,None,0.0
+CR_1415,977,,6,Active,None,0.0
+CR_1416,662,,12,Default,Real Estate,0.0
+CR_1417,934,25000.0,12,Active,None,0.0
+CR_1418,631,10000.0,12,Default,Car,13804.37
+CR_1419,756,10000.0,24,Active,Real Estate,7853.74
+CR_1420,28,5000.0,24,Default,Deposit,4363.22
+CR_1421,536,5000.0,36,Active,Car,6507.65
+CR_1422,821,,36,Default,None,0.0
+CR_1423,743,25000.0,6,Closed,Real Estate,17437.8
+CR_1424,742,25000.0,24,Active,Real Estate,13852.36
+CR_1425,382,25000.0,36,Closed,None,0.0
+CR_1426,631,25000.0,12,Closed,Car,32670.5
+CR_1427,371,,60,Default,Car,0.0
+CR_1428,387,5000.0,6,Default,None,0.0
+CR_1429,618,25000.0,6,Default,Real Estate,23462.23
+CR_1430,296,1000.0,24,Active,Deposit,1275.0
+CR_1431,449,50000.0,6,Closed,None,0.0
+CR_1432,893,,6,Active,Deposit,0.0
+CR_1433,188,1000.0,12,Default,Deposit,600.34
+CR_1434,168,1000.0,24,Closed,Deposit,524.6
+CR_1435,280,25000.0,24,Default,None,0.0
+CR_1436,941,5000.0,36,Default,Deposit,6657.9
+CR_1437,583,50000.0,60,Active,Car,58669.65
+CR_1438,409,25000.0,36,Closed,Real Estate,23876.31
+CR_1439,461,,6,Default,Deposit,0.0
+CR_1440,615,,36,Active,Real Estate,0.0
+CR_1441,86,,6,Closed,Deposit,0.0
+CR_1442,213,5000.0,12,Active,Car,5769.89
+CR_1443,84,500.0,60,Active,Deposit,534.36
+CR_1444,711,,60,Default,None,0.0
+CR_1445,508,50000.0,36,Active,Deposit,50133.95
+CR_1446,28,25000.0,6,Default,Real Estate,34636.46
+CR_1447,387,500.0,60,Default,Real Estate,553.15
+CR_1448,201,10000.0,60,Active,None,0.0
+CR_1449,60,5000.0,6,Default,Car,2875.26
+CR_1450,18,25000.0,36,Closed,Car,22157.67
+CR_1451,981,25000.0,60,Active,None,0.0
+CR_1452,169,500.0,36,Active,None,0.0
+CR_1453,12,50000.0,60,Active,Real Estate,56025.62
+CR_1454,359,500.0,12,Active,None,0.0
+CR_1455,882,50000.0,12,Default,Real Estate,37709.83
+CR_1456,287,5000.0,36,Closed,Car,4909.95
+CR_1457,653,50000.0,6,Active,Car,35019.31
+CR_1458,527,500.0,36,Closed,Car,558.96
+CR_1459,379,1000.0,12,Closed,Car,955.09
+CR_1460,724,10000.0,12,Closed,Real Estate,11168.96
+CR_1461,305,10000.0,24,Closed,Real Estate,12564.8
+CR_1462,155,,12,Active,Deposit,0.0
+CR_1463,87,1000.0,12,Closed,None,0.0
+CR_1464,217,1000.0,24,Closed,Car,854.65
+CR_1465,812,1000.0,12,Closed,Deposit,574.85
+CR_1466,622,10000.0,60,Closed,None,0.0
+CR_1467,254,1000.0,6,Default,Deposit,1491.84
+CR_1468,211,5000.0,36,Closed,None,0.0
+CR_1469,71,25000.0,36,Active,Deposit,16574.53
+CR_1470,111,50000.0,24,Closed,None,0.0
+CR_1471,383,1000.0,12,Default,Real Estate,1100.33
+CR_1472,780,1000.0,6,Active,Real Estate,1340.06
+CR_1473,330,,6,Closed,Deposit,0.0
+CR_1474,617,10000.0,6,Closed,Deposit,10846.02
+CR_1475,554,10000.0,36,Active,Real Estate,9263.09
+CR_1476,728,5000.0,12,Active,Car,2919.21
+CR_1477,91,10000.0,36,Closed,None,0.0
+CR_1478,209,25000.0,24,Closed,Car,20022.88
+CR_1479,561,1000.0,36,Active,Real Estate,1003.94
+CR_1480,256,,12,Default,Deposit,0.0
+CR_1481,589,5000.0,6,Active,Deposit,3452.13
+CR_1482,510,50000.0,24,Default,Deposit,36135.36
+CR_1483,558,25000.0,36,Closed,Real Estate,28075.66
+CR_1484,639,10000.0,60,Active,None,0.0
+CR_1485,784,,60,Default,Deposit,0.0
+CR_1486,472,5000.0,24,Active,None,0.0
+CR_1487,574,1000.0,24,Default,Deposit,795.58
+CR_1488,593,1000.0,36,Closed,Deposit,732.8
+CR_1489,374,1000.0,6,Closed,None,0.0
+CR_1490,908,,12,Default,Real Estate,0.0
+CR_1491,588,500.0,24,Closed,Car,503.62
+CR_1492,363,50000.0,60,Closed,Car,49619.96
+CR_1493,455,10000.0,24,Default,Real Estate,13795.71
+CR_1494,405,500.0,24,Closed,Car,423.33
+CR_1495,392,10000.0,36,Default,None,0.0
+CR_1496,64,,60,Closed,Deposit,0.0
+CR_1497,925,10000.0,60,Active,Car,7919.92
+CR_1498,585,5000.0,36,Default,Real Estate,6614.67
+CR_1499,887,25000.0,12,Default,None,0.0
+CR_1500,47,,60,Default,Deposit,0.0

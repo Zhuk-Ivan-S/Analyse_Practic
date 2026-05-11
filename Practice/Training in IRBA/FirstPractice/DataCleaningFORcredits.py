@@ -10,8 +10,8 @@ print(f'Missing values: \n{df_raw.isnull().sum()}') # Missing values
 
 # So many missing values in credit amount - that is very big mistake. I have no possibility to take info from another
 # source for example some update or new data . So i try to replace credit amount into average(just for practice)
-average_credit_amount = df_raw['amount'].mean()
-print(f'Average amount of credit: {average_credit_amount} euros') # badly History !)
+average_credit_amount = df_raw['amount'].median()
+print(f'Median amount of credit: {average_credit_amount} euros') # badly History !)
 df_raw['amount'] = df_raw['amount'].fillna(average_credit_amount) # replace missing values on average
 print(f'missing values in amount: {df_raw['amount'].isnull().sum()}')
 # NaN in collateral_type - just change into "Nothing"
@@ -25,4 +25,4 @@ df_raw.loc[df_raw['collateral_type'] == 'Nothing', 'collateral_value'] = 0 # for
 df_raw['collateral_ratio'] = (df_raw['collateral_value'] / df_raw['amount']) * 100
 print(df_raw['collateral_ratio'])
 
-df_raw.to_csv('../Training in IRBA/source/silver_credits.csv', index = False)
+df_raw.to_csv('../source/silver_credits.csv', index = False)
